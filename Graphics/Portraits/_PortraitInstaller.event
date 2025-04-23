@@ -1,0 +1,32 @@
+// setMugEntry(UnitMugID, UnitMugData, MouthX, MouthY, EyeX, EyeY)
+#define setMugEntryExtend(mugEntry, mugLocation, mouthX, mouthY, eyeX, eyeY, extend1X, extend1Y, extend2X, extend2Y)"PUSH; ORG PortraitTable+mugEntry*0x1C; POIN mugLocation; POIN mugLocation+0x1624; POIN mugLocation+0x1604; POIN mugLocation+0x1004; BYTE extend1X extend1Y extend2X extend2Y; BYTE mouthX mouthY eyeX eyeY; BYTE 1 0 1 0; POP"
+
+#define TestMug 0x5
+
+ALIGN 16
+TestMugData:
+#incbin "DMP/TestPortrait(Kyrads)_mug.dmp"
+#incbin "DMP/TestPortrait(Kyrads)_frames.dmp"
+#incbin "DMP/TestPortrait(Kyrads)_palette.dmp"
+#incbin "DMP/TestPortrait(Kyrads)_minimug.dmp"
+setMugEntry(TestMug, TestMugData, 3, 6, 3, 4)
+
+#define BridgitMug 0x14
+
+ALIGN 16
+BridgitMugData:
+#incbin "DMP/Bridgit(LaurentLacroix)_mug.dmp"
+#incbin "DMP/Bridgit(LaurentLacroix)_frames.dmp"
+#incbin "DMP/Bridgit(LaurentLacroix)_palette.dmp"
+#incbin "DMP/Bridgit(LaurentLacroix)_minimug.dmp"
+setMugEntry(BridgitMug, BridgitMugData, 3, 5, 3, 3)
+
+#define HermanMug 0x30
+
+ALIGN 16
+HermanMugData:
+#incbin "DMP/Herman(MournfulRelic)_mug.dmp"
+#incbin "DMP/Herman(MournfulRelic)_frames.dmp"
+#incbin "DMP/Herman(MournfulRelic)_palette.dmp"
+#incbin "DMP/Herman(MournfulRelic)_minimug.dmp"
+setMugEntry(HermanMug, HermanMugData, 3, 5, 3, 3)

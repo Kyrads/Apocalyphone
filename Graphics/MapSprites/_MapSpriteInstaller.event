@@ -1,0 +1,23 @@
+ALIGN 4
+LordLanceStand:
+#incbin "DMP/LordLanceStand(Kyrads).dmp"
+
+ALIGN 4
+LordLanceWalk:
+#incbin "DMP/LordLanceWalk(Kyrads).dmp"
+
+ALIGN 4
+KnightLanceStand:
+#incbin "DMP/KnightLanceStand(Salvaged).dmp"
+
+ALIGN 4
+KnightLanceWalk:
+#incbin "DMP/KnightLanceWalk(Salvaged).dmp"
+
+ALIGN 4
+FighterFStand:
+#incbin "DMP/FighterFStand(Alusq).dmp"
+
+ALIGN 4
+FighterFWalk:
+#incbin "DMP/FighterFWalk(Alusq).dmp"

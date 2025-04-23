@@ -1,0 +1,92 @@
+// Player Classes
+
+//redefining knights
+#define Knight_A 0x9 //Also just Knight
+#define Knight_B 0xa
+
+#define Thief_F 0xe
+
+#define PegasusKnight_M 0x20
+#define Falcoknight FalcoKnight //Ideally stick to this
+#define FalconKnight FalcoKnight
+#define FalcoKnight_M 0x22
+#define Falcoknight_M 0x22 //Ideally stick to this
+#define FalconKnight_M 0x22
+#define Dracoknight 0x21 //Ideally stick to this
+#define DracoKnight 0x21
+#define DragonKnight 0x21
+
+
+#define Scholar Shaman
+#define Scholar_F Shaman_F
+#define Sorcerer Druid
+#define Sorcerer_F Druid_F
+
+#define Gendarme 0x35
+
+#define Freelancer 0x54
+#define Deserter 0x54
+#define Freelancer_F 0x55
+#define Deserter_F 0x55
+#define Champion 0x56
+#define Champion_F 0x57
+
+#define Soldier_F 0x58
+
+#define Fighter_F 0x7A
+
+#define Cavalier_S 0x7e
+
+
+//Statted classes, for personal ref
+	/*
+		Key:
+			(X) = Stats
+			(X)(X) = Stats + Graphics
+			(T) = Terrain Data
+			(N) = Names + Descriptions + Definitions
+			(G) = Gender Stats
+			(GX) = All Gender Work Complete (Redundant but required for FC)
+			(FC) = Fully Complete aka (X)(X)(T)(N)(GX)
+			//
+		- Lord (X)(G) //Temp Graphics
+		- Great Lord
+		- Mercenary (X)
+		- Hero
+		- Myrmidon (X)
+		- Swordmaster
+		- Soldier (X)(G)
+		- Halberdier
+		- Freelancer (X)
+		- Champion
+		- Fighter (X)
+		- Warrior
+		- Raider (X)
+		- Reaver
+		- Archer (X)
+		- Sniper
+		- Thief (X)
+		- Rogue or Assassin
+		- Knight_A (X)
+		- Knight_B (X)
+		- General (X)
+		- Gendarme (X)
+		- Cavalier (X)
+			- Cavalier Triangle(?)
+		- Paladin
+		- Peg (X)(G)
+		- Falcoknight
+		- Wyvern (X)
+		- Dracoknight
+		- Mage (X)(G)
+		- Sage (X)(G)
+		- Scholar (X)(G)
+		- Sorcerer (X)(G)
+		- Curate (X)
+		- Bishop
+		- Curate
+		- Troubadour (X)
+		- Mage Knight
+		- Civilians (X)(X)(G)
+		- Empress
+	*/

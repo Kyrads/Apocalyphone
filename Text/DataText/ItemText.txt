@@ -1,0 +1,200 @@
+## HorseslayerName^
+Horseslayer[X]
+
+## HorseslayerDesc*
+Effective vs. [Horse][X]
+
+## JavelinName^
+Javelin[X]
+
+## JavelinDesc*
+Cannot double at range.[X]
+
+## SaunionName^
+Saunion[X]
+
+## SaunionDesc*
+Cannot double at range.[X]
+
+## AxeName^
+Axe[X]
+
+## BattleAxeName^
+Battle Axe[X]
+
+## RegalAxeName^
+Regal Axe[X]
+
+## PoleaxeName^
+Poleaxe[X]
+
+## DevilAxeName^
+Devil Axe[X]
+
+## DevilAxeDesc*
+Has a chance to backfire based on luck.[X]
+
+## HandAxeName^
+Hand Axe[X]
+
+## HammerName^
+Hammer[X]
+
+## HammerDesc*
+Effective vs. [ArmorIcon][X]
+
+## BowName^
+Bow[X]
+
+## LongBowName^
+Longbow[X]
+
+## RegalBowName^
+Regal Bow[X]
+
+## ShortbowName^
+Shortbow[X]
+
+## ShortbowDesc*
+ [X]
+
+## GreatbowName^
+Greatbow[X]
+
+## GreatbowDesc*
+ [X]
+
+## BallistaName^
+Ballista[X]
+
+## ArbalestName^
+Arbalest[X]
+
+## SiegeBallistaName^
+SiegeBallista[X]
+
+## FireName^
+Fire[X]
+
+## ThunderName^
+Thunder[X]
+
+## ElfireName^
+Elfire[X]
+
+## BoltingName^
+Bolting[X]
+
+## BoltingDesc*
+Long-range lightning strike.[X]
+
+## FimbulvetrName^
+Fimbulvetr[X]
+
+## WindName^
+Wind[X]
+
+## ShineName^
+Shine[X]
+
+## PurgeName^
+Purge[X]
+
+## PurgeDesc*
+Long-range light blast.[X]
+
+## FluxName^
+Flux[X]
+
+## DuskName^
+Dusk[X]
+
+## DuskDesc*
+ [X]
+
+## NosferatuName^
+Nosferatu[X]
+
+## NosferatuDesc*
+Drains opponent HP into caster.[X]
+
+## EclipseDesc*
+Long-range dark siege.[X]
+
+## HealName^
+Heal[X]
+
+## HealDesc*
+Restores HP to allies[N]
+in adjacent spaces.[X]
+
+## MendName^
+Mend[X]
+
+## MendDesc*
+Restores moderate HP to[N]
+allies in adjacent spaces.[X]
+
+## MendUseText*
+Restores moderate HP.[X]
+
+## PhysicName^
+Physic[X]
+
+## PhysicDesc*
+Restores HP to allies[N]
+at a distance.[X]
+
+## RecoverName^
+Recover[X]
+
+## RecoverDesc*
+Restores great HP to[N]
+allies in adjacent spaces.[X]
+
+## RestoreName^
+Restore[X]
+
+## RestoreDesc*
+Cures allies of status[N]
+ailments. (Sleep, Poison, etc.)[X]
+
+## RestoreUseText*
+Curest status ailments.[X]
+
+## NobleLanceName^
+Noble Lance[X]
+
+## NobleLanceDesc*
+Effective vs. [HorseIcon] [ArmorIcon][X]
+
+## KeyName^
+Key[X]
+
+## KeyDesc*
+Opens doors and chests.[X]
+
+## EclipseName^
+Eclipse[X]
+
+## HalberdName^
+Halberd[X]
+
+## HalberdDesc*
+ [.][X]
+
+## RegalGreataxeName^
+Regal Greataxe[X]
+
+## RegalGreataxeDesc*
+ [.][X]
+
+## MessageFatigueRestored
+Fatigue restored[X]
+
+## GreenGemName^
+Green Gem[X]
+
+## GreenGemDesc*
+A common gemstone[N]
+worth 1,000 gold.[X]

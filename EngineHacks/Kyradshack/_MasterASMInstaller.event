@@ -1,0 +1,151 @@
+
+
+//Ganzap
+//Makes brave weapons only have their brave effect when initiating
+//However, still displays when attacking enemies with brave weapons
+	#include "ThreeHousesBraveEffect/braveasminstall.event"
+
+//Huichelaar
+//Fixes a bug with the minimug palette when switching between two characters
+//Rendered irrelevant by gorgon egg + incompatible
+	//#include "FE8U_MinimugPalette-2/MinimugPalette.event"
+
+//StanH
+//Allows easy customisation of the game speed settings, used to make heavy classes have slower movement on the Fast setting
+//Edited by Pikmin1211 to make the R button speed up movement.
+	#include "CustomGameSpeed/CustomGameSpeed.event"
+
+//Tequila
+//Used to increase the size of the convoy to 200, and allow for the combining of items in the convoy. Partitioning isn't used.
+	#include "FE8-Convoy_Partition_and_Item_Combining/FE8-Convoy_Stuff_EA.event"
+
+//Tequilla, Zahlman, Stan, Black Mage, Eliwan, Awful Emblem Team
+//Rework of the text engine, mostly for the use of one and three line text boxes, but has many other useful features.
+	#include "FE8-Text_Engine_Rework/_FE8-Text_Engine_Rework_EA.event"
+
+//Leonarth
+//Makes it so that when stopped by an enemy in fog, the unit is still allowed to act.
+	#include "LessAnnoyingFog/LessAnnoyingFogInstaller.event"
+
+//7743
+//Allows speeding up of battle animations via the R button.
+	#include "FastBattleAnimation/Install.event"
+
+//Pikmin1211
+//Changes staves that use Mag/2 range to use Mag/3 range instead.
+	#include "MagBy3/Installer.event"
+
+//HyperGammaSpaces
+//Improves lag on enemy phase, particularly with skillsys and high enemy density.
+	#include "FillAIRangeMapFix/FillAIDangerMap.event"
+
+//AuraWolf
+//Allows you to use L button cycling on Red and Green units
+	#include "UpdatedLButtonCycling/UpdatedLButtonCycling.event"
+
+//Vesly
+//Group AI V2, allows enemy units in groups to have their AI triggered when entering the range of any one of them.
+	#include "GroupAI/Installer.event"
+
+//Vesly
+//Removes Portrait Glitches for units with no portraits.
+	#include "GenericPortraitFixes/Installer.event"
+
+//Vesly
+//Allows a debug menu where you can move a unit anywhere on the map.
+	//#include "DebugPlaceUnits/Installer.event"
+
+//Vesly
+//A debug menu for development
+	#include "Debugger/Installer.event"
+
+//Vesly
+//Allows the displaying of icons on units such as boss, defend, raid etc based on character ID, Chapter, Flag etc.
+	#include "IconDisplay/Installer.event"
+
+//MKol, Huichellaar, Vesly
+//Stealable/Droppable Icon by Scraiza
+	#include "DisplayObtainableItem/Installer.event" //Note, doesn't display stealables during preps
+													 //Additionally, displays Droppable > Stealable, would like an icon for both	
+//Vesly
+//Allows stealing with full inventory
+	#include "StealWithFullnv/Installer.event"
+
+//Vesly
+//Allows bigger descriptions on weapons
+	#include "ExtendWeaponDescBox/Installer.event"
+
+//Vesly
+//Allows you to skip the intro of chapters specified in the installer
+	#include "SkipChIntro/Installer.event"
+
+//(MMB Credits), LegendOfLoog
+//MMB preset from SoTS
+//No longer needed thanks to Gorgon Egg, kept for posterity
+	//#include "ModularMinimugBox-master/Installers/MMBInstallerSagaOfTheSigilBearers.event"
+
+//Zane Avernathy
+//Allows easier editing of the unit panel window
+	#include "GORGON-EGG-main/output/Installer.event"
+
+//Contro
+//Fixes a graphical bug with the battle forecast
+	#include "BattleForecastFix/Installer.event"
+
+//Contro
+//Shows res on the terrain window, may not end up being relevant we'll see
+//Funky text I think because of gegg
+	//#include "ResTerrainWindow/Installer.event"
+
+//Contro
+//Gives different stat screen colours based on alliegance, currently unused
+	//#include "StatScreenAlleg/Installer.event"
+
+//Sme
+//Allows you to force animations on for certain characters, will use this for bosses
+	#include "AnimationForcer/AnimationForcer.event"
+
+//Sme
+//For giving characters promotions unique to them. 
+//Need to set every character's promotion manually regardless though as the way this hack works will cause a hang for classes with only one promotion.
+	#include "CharBasedPromos/CharBasedPromos.event"
+
+
+//AuraWolf
+//Allows you to toggle on which chapters deployment swapping is allowed and for what units
+//Even allows groups to be swapped amongst themselves but not with others
+	#include "ToggleDeploymentSwapping/ToggleDeploymentSwappingInstaller.event"
+
+//Contro
+//Makes the show heal amount glow
+	#include "ShowHealAmount/Installer.event"
+
+//TR143
+//Randomises the RNG every frame
+	#include "RNGRandomizer/RNGRandomizerInstaller.event"
+
+//Contro
+//Fixes a bug with Canto
+	#include "CantoBugFix/Installer.event"
+
+//AuraWolf
+//Allows Viewing of supply even with a full inventory
+	#include "SupplyView/SupplyView.event"
+
+//7743
+//Allows setting preps shop inventory individually by chapter
+	#include "prep_shop_each_chapter2/Installer.event"
+
+//Sme
+//Fatigue!
+//Changes by Kyrads/Pikmin1211
+	#include "Fatigue/Fatigue.event"
+
+//A whole bunch of edits by various people, see Edits.event for more info
+	#include "Edits.event"
+
+//CHAX
+	#include "_CHAX/_MasterCHAXInstaller.event"
+
+//Note: Give credit to either loog, pik or mint for shove
+//not affecting mounted units.

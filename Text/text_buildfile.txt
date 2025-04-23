@@ -1,0 +1,7 @@
+#include "StaticText.txt"
+
+#include "SkillSystem/SkillSystemTextInstaller.txt"
+
+#include "DataText/_DataTextInstaller.txt"
+
+#include "ChapterText/_ChapterTextInstaller.txt"

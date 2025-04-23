@@ -1,0 +1,191 @@
+# 0x0354 SwordName^
+Sword[X]
+
+
+
+#0x0355 ShortswordName^
+Shortsword[X]
+
+
+
+#0x0356 LongswordName^
+Longsword[X]
+
+
+
+#0x0357 RegalSwordName^
+Regal Sword[X]
+
+
+
+#0x0358 BastardSwordName^
+Bastard Sword[X]
+
+
+
+#0x0359 GreatswordName^
+Greatsword[X]
+
+
+
+#0x035a DaggerName^
+Dagger[X]
+
+
+
+#0x040a DaggerDesc*
+A light throwing dagger.[N]
+Pierces Def in melee. Thief only.[X]
+
+
+
+#0x035c RapierName^
+Rapier[X]
+
+#0x040c RapierDesc*
+A nimble piercing sword.[N]
+Effective against: [HorseIcon] & [ArmourIcon][X]
+
+
+
+#0x035d BraveSwordName^
+Brave Sword[X]
+
+#0x040d BraveSwordDesc*
+Can strike consecutively.[X]
+
+
+#0x035e SwiftSwordName^
+Swift Sword[X]
+
+#0x040e SwiftSwordDesc*
+Can strike consecutively.[X]
+
+
+
+#0x035f KillingEdgeName^
+Killing Edge[X]
+
+#0x040f KillingEdgeDesc*
+Improves critical hit rate.[X]
+
+
+#0x0360 ArmourslayerName^
+Armourslayer[X]
+
+#0x0410 ArmourslayerDesc*
+Effective against: [0x7C][X]
+
+
+
+#0x0361 WyrmslayerName^
+Wyrmslayer[X]
+
+#0x0411 WyrmslayerDesc*
+Effective against: [DragonIcon][X]
+
+
+
+#0x0362 LevinSwordName^
+Levin Sword[X]
+
+#0x0412 LevinSwordDesc*
+A sword that casts lightning at range.[X]
+
+
+
+#0x0364 LancreaverName^
+Lancereaver[X]
+
+#0x0414 LancreaverDesc*
+Reverses weapon triangle effects.[X]
+
+
+
+#0x0365 ClaymoreName^
+Claymore[X]
+
+#0x0415 ClaymoreDesc*
+Effective against: [HorseIcon][X]
+
+
+#0x0369 SpearName^
+Spear[X]
+
+#0x036a ShortSpearName^
+Short Spear[X]
+
+#0x036b LanceName^
+Lance[X]
+
+#0x036c RegalLanceName^
+Regal Lance[X]
+
+#0x036e BraveLanceName^
+Brave Lance[X]
+
+#0x041e BraveLanceDesc*
+Can strike consecutively.[X]
+
+#0x036f KillerLanceName^
+Killer Lance[X]
+
+#0x041f KillerLanceDesc*
+Improves critical hit rate.[X]
+
+#0x042d PoleaxeDesc*
+ [X]
+
+# 0x02BF LordName^
+Lord[X]
+
+# 0x02C1 CavalierName^
+Cavalier[X]
+
+# 0x02C3 KnightName^
+Knight[X]
+
+# 0x02C5 ThiefName^
+Thief[X]
+
+# 0x02ED SoldierName^
+Soldier[X]
+
+# 0x02f4^
+Freelancer[X]
+
+# 0x02D7 Dummy1^
+Dummy[X]
+
+# 0x0323 Dummy2^
+Dummy[X]
+
+# 0x04EC SkillStat
+Skl[.][X]
+
+# 0x04EE LuckStat
+Lck[.][X]
+
+# 0x04F6
+Mov[.][X]
+
+# 0x0548 SklDescription
+Fighting skill. A higher[NL]
+number improves hit & crit %.[.][X]
+
+# 0x0485*
+Increases Skill by 3[NL]
+points. Vanishes after use.[.][X]
+
+# 0x0015
+Skill increased.[X]
+
+
+# 0x04C3
+Raises Skill.[.][X]
+
+# 0x213^
+Camille[X]
+
+# 0x0565
+Magic mastery level.[X]

@@ -1,0 +1,20 @@
+ALIGN 4
+gSkillTester:
+POIN SkillTester
+
+ALIGN 4
+gprGotoConGetter:
+POIN prGotoConGetter+1
+
+ALIGN 4
+DisciplineIDLink:
+BYTE DisciplineID
+
+//All of these were made with major help from Pikmin1211
+#include "Event/Formulachanges/Formulachanges.lyn.event" //Formula changes includes EXP changes written by LegendofLoog
+#include "Event/Autolevelchanges/Autolevelchanges.lyn.event"
+#include "Event/WEXPChanges/WEXPChanges.lyn.event"
+#include "Event/WeaponProperties/WeaponProperties.lyn.event"
+#include "Event/ClassBasedAid/ClassBasedAid.lyn.event" //Also prevents mounted units being rescued
+#include "Event/StaffHeals/StaffHeals.lyn.event"
+#include "Event/Misc_CHAX/Misc_CHAX.lyn.event"

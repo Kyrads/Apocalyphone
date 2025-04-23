@@ -1,0 +1,130 @@
+
+#define ItemIconSlot(slot) "ORG 0x5926F4+(0x80*slot)"
+
+PUSH
+ItemIconSlot(0x0) 
+#incbin "DMP/Sword(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x1) 
+#incbin "DMP/Shortsword(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x2) 
+#incbin "DMP/Longsword(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x3) 
+#incbin "DMP/RegalSword(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x4) 
+#incbin "DMP/BastardSword(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x5) 
+#incbin "DMP/Greatsword(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x6) 
+#incbin "DMP/Dagger(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x0f)
+#incbin "DMP/LevinSword(Zelix).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x14)
+#incbin "DMP/ShortSpear(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x16)
+#incbin "DMP/RegalLance(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x1b)
+#incbin "DMP/Javelin(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x1f)
+#incbin "DMP/BattleAxe(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x20)
+#incbin "DMP/RegalAxe(George_Reds).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x27)
+#incbin "DMP/HandAxe(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x2C)
+#incbin "DMP/Longbow(Lisandra_Brave).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x2D)
+#incbin "DMP/RegalBow(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x31)
+#incbin "DMP/Shortbow(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x32)
+#incbin "DMP/Greatbow(Snakey-1).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x44)
+#incbin "DMP/Dusk(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x45)
+#incbin "DMP/Nosferatu(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0x46)
+#incbin "DMP/Eclipse(Kyrads).dmp"
+POP
+
+PUSH
+ItemIconSlot(0xb3)
+#incbin "DMP/NobleLance(Beansy).dmp"
+POP
+
+
+
+PUSH
+ItemIconSlot(0x8c)
+#incbin "DMP/Halberd(Kyrads).dmp"
+POP
+
+
+PUSH
+ItemIconSlot(0xc9) 
+#incbin "DMP/GreenGem.dmp"
+POP
+
+PUSH
+ItemIconSlot(0xb8) 
+#incbin "DMP/Poleaxe(Kyrads).dmp"
+POP
