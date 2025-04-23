@@ -11,3 +11,5 @@
 ## EmptyDesc
  [X]
 
+## MessageFatigueRestored
+Fatigue restored[X]

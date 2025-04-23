@@ -1,104 +1,104 @@
 INLINE MagClassTable,Base Magic,Magic Growth,Magic Cap,Magic Promotion Bonus
 None,0,0,20,0
-Ephraim Lord,1,10,20,0
-Eirika Lord,1,25,20,0
-Ephraim Master Lord,2,10,24,1
-Eirika Master Lord,2,20,25,2
-Cavalier,0,10,15,0
-Cavalier (F),0,0,20,0
-Paladin,1,10,25,1
-Paladin (F),1,10,25,1
-Armour Knight,0,5,15,0
-Armour Knight (F),0,5,15,0
-General,1,5,20,1
-General (F),0,0,22,0
+Cavalier (A),0,15,0,0
+Survivor,0,15,15,0
+Paladin (SA),1,15,25,1
+Vagabond,1,15,25,1
+Cavalier (L),0,15,0,0
+Cavalier (S),0,15,0,0
+Paladin (SL),1,15,25,1
+Paladin (LA),1,15,25,1
+Knight (L),0,5,15,0
+Knight (S),0,5,15,0
+General,1,5,25,1
+Knight (A),0,5,15,0
 Thief,0,10,15,0
-Manakete,0,0,20,0
+Thief (F),0,10,15,0
 Mercenary,0,10,15,0
 Mercenary (F),0,10,15,0
-Hero,0,0,23,0
-Hero (F),0,0,23,0
+Hero,1,10,25,1
+Hero (F),1,10,25,1
 Myrmidon,0,15,15,0
 Myrmidon (F),0,15,15,0
-Swordmaster,2,10,23,1
-Swordmaster (F),2,10,23,1
-Assassin,1,0,22,0
-Assassin (F),1,0,22,0
+Swordmaster,1,15,25,1
+Swordmaster (F),1,15,25,1
+Assassin,1,10,25,1
+Assassin (F),1,10,25,1
 Archer,0,10,15,0
 Archer (F),0,10,15,0
-Sniper,1,10,24,1
-Sniper (F),1,10,24,1
-Ranger,0,0,22,0
-Ranger (F),0,0,22,0
-Wyvern Rider,0,5,15,0
-Pegasus Knight (M),0,15,15,0
-Wyvern Lord,0,0,21,0
-Falcon Knight (M),0,0,21,0
-Wyvern Knight,1,5,24,1
-Wyvern Knight (F),1,5,24,1
+Sniper,1,10,25,1
+Sniper (F),1,10,25,1
+Ranger,1,10,25,1
+Horseman,0,10,15,0
+Wyvern Rider (L),0,5,15,0
+Wyvern Rider (S),0,5,15,0
+Dracoknight (SL),1,5,25,1
+Dracoknight (LA),1,5,25,1
+Wyvern Knight (L),1,5,25,1
+Wyvern Knight (S),1,5,25,1
 Mage,5,40,20,0
 Mage (F),5,40,20,0
-Sage,7,40,30,2
-Sage (F),7,40,30,2
-Mage Knight,4,40,24,2
-Mage Knight (F),3,40,25,2
+Sage,8,40,30,1
+Sage (F),8,40,30,1
+Mage Knight,8,40,30,1
+Mage Knight (F),8,40,30,1
 Bishop,4,35,25,2
 Bishop (F),4,35,25,1
 Shaman,9,60,20,0
 Shaman (F),9,60,20,0
-Druid,11,60,30,2
-Druid (F),11,60,30,2
-Summoner,5,50,27,0
-Summoner (F),5,50,27,0
+Druid,11,60,30,1
+Druid (F),11,60,30,1
+Summoner,10,55,30,1
+Bonewalker (S),1,5,25,0
 Rogue,3,25,26,3
 Gorgon Egg,0,0,30,0
-Great Knight,1,5,20,0
-Great Knight (F),1,5,20,0
+Great Knight,1,5,25,1
+Knight (B),0,5,15,0
 Recruit (2),0,0,20,0
 Journeyman (3),0,0,22,0
 Pupil (3),5,55,29,2
-Recruit (3),0,0,23,0
+Wyvern Rider (A),0,5,15,0
 Manakete,2,0,20,0
 Manakete (F),2,0,20,0
 Journeyman (1),0,0,20,0
 Pupil (1),1,55,20,0
 Fighter,0,5,15,0
-Warrior,0,0,21,0
-Raider,0,5,15,0
-Raider (F),0,5,15,0
-Berserker,0,0,21,0
-Monk,1,30,20,0
+Warrior,1,5,25,1
+Brigand,0,5,15,0
+Pirate,0,5,15,0
+Berserker,1,5,25,1
+Monk,4,40,20,0
 Priest,7,45,20,0
 Bard,1,45,20,0
 Recruit (1),0,0,20,0
-Pegasus Knight,0,15,15,0
-Falcon Knight,3,30,23,3
-Cleric,1,30,20,0
-Troubadour,4,30,20,0
+Pegasus Knight (L),0,15,15,0
+Falcoknight (SL),1,15,25,1
+Cleric,7,45,20,0
+Troubadour,4,40,20,0
 Valkyrie,4,35,25,2
-Dancer,0,15,15,0
-Soldier,0,5,15,0
+Dancer,1,45,20,0
+Soldier,0,10,15,0
 Necromancer,9,55,30,0
 Fleet,0,0,20,0
 Phantom,0,0,20,0
 Revenant,0,0,20,0
-Entombed,0,0,21,0
-Freelancer,0,5,15,0
-Freelancer (F),0,5,15,0
-Champion,0,0,21,0
-Champion (F),0,0,21,0
-Soldier (F),0,0,20,0
+Entombed,0,5,15,0
+Bonewalker (L),0,5,15,0
+Bonewalker (B),0,5,15,0
+Wight,0,0,21,0
+Wight (Bow),0,0,21,0
+Bael,0,0,20,0
 Elder Bael,0,0,22,0
 Cyclops,0,0,21,0
 Mauthe Doog,0,0,20,0
 Gwyllgi,0,0,23,0
 Tarvos,0,0,20,0
 Maelduin,0,0,21,0
-Mogall,2,45,20,0
-Arch Mogall,6,55,29,0
+Mogall,7,50,20,0
+Balor,9,50,30,0
 Gorgon,8,60,29,0
 Gorgon Egg,0,0,30,0
-Gargoyle,0,0,20,0
+Gargoyle,0,5,15,0
 Deathgoyle,0,0,22,0
 Dracozombie,1,30,50,0
 Demon King,23,40,50,0
@@ -114,7 +114,7 @@ Civilian,0,0,20,0
 Civilian (F),0,0,20,0
 Civilian,0,0,20,0
 Civilian (F),0,0,20,0
-Peer,0,0,20,0
+Dracoknight (SA),1,5,25,1
 Queen,0,0,20,0
 Prince,0,0,20,0
 Queen,0,0,20,0

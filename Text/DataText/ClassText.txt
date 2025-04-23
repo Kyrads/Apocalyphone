@@ -1,60 +1,245 @@
-## KnightDesc*
-Heavily armoured knights with plated[N]
-armour providing staunch defence.[X]
+## SurvivorName
+Survivor[X]
 
-## GeneralName^
-General[X]
+## SurvivorDesc
+A young man trying to survive in a[N]
+world succumbed to darkness.[X]
 
-## MercenaryName^
-Mercenary[X]
+## VagabondName
+Vagabond[X]
 
-## HeroName^
-Hero[X]
+## VagabondDesc
+ [X]
 
-## MyrmidonName^
-Myrmidon[X]
+## MercenaryDesc
+Drifting swordsmen who pride[N]
+themselves on adaptability.[X]
 
-## ArcherName^
-Archer[X]
+## HeroDesc
+Veteran mercenaries who have[N]
+survived countless battles.[X]
 
-## WyvernRiderName^
-Wyvern Rider[X]
+## MyrmidonDesc
+Swordsmen with superior agility.[N]
+Able to strike with precision.[X]
 
-## PegasusKnightName^
-Pegasus Rider[X]
+## SwordmasterDesc
+Peerless masters of swordplay[N]
+with lightning-fast reflexes.[X]
 
-## DracoknightName^
+## SoldierDesc
+Trained lance wielders who strike[N]
+with speed and precision.[X]
+
+## HalberdierName
+Halberdier[X]
+
+## HalberdierDesc
+Distinguished soldiers who possess[N]
+incredible discipline and skill.[X]
+
+## FreelancerName
+Freelancer[X]
+
+## FreelancerDesc
+Hardy drifters who use their[N]
+lances to impale foes.[X]
+
+## ChampionName
+Champion[X]
+
+## ChampionDesc
+Exceptional warriors who wield blades[N]
+and polearms with strength.[X]
+
+## FighterDesc
+Militiamen who attack using[N]
+strength above all else.[X]
+
+## WarriorDesc
+Honoured warriors who have attained[N]
+peerless strength in battle.[X]
+
+## BrigandDesc
+ [X]
+
+## PirateDesc
+ [X]
+
+## BerserkerDesc
+ [X]
+
+## ArcherDesc
+ [X]
+
+## SniperDesc
+ [X]
+
+## HorsemanName
+Horseman[X]
+
+## HorsemanDesc
+ [X]
+
+## RangerDesc
+ [X]
+
+## CavalierDesc
+ [X]
+
+## PaladinDesc
+ [X]
+
+## KnightDesc
+Heavily armoured knights with[N]
+superior staying power.[X]
+
+## GeneralDesc
+Seasoned knights with unparalleled[N]
+defences and combat experience.[X]
+
+## PegasusKnightDesc
+ [X]
+
+## FalcoknightDesc
+ [X]
+
+## WyvernRiderDesc
+ [X]
+
+## DracoknightName
 Dracoknight[X]
 
-## MageName^
-Mage[X]
+## DracoknightDesc
+ [X]
 
-## SageName^
-Sage[X]
+## ThiefDesc
+ [X]
 
-## ScholarName^
-Scholar[X]
+## RogueDesc
+ [X]
 
-## ScholarDesc*
-Practicioners of the magics[N]
-with great natural affinity.[X]
+## MageDesc
+Students of anima that choose[N]
+to apply their spells to battle.[X]
 
-## SorcererName^
-Sorcerer[X]
+## MonkDesc
+Ascetic wielders of light magic[N]
+who use holy magic to fight.[X]
 
-## SorcererDesc*
-Advanced masters of magic with[N]
-an incredible raw prowess.[X]
+## SageDesc
+Adaptable masters of spellcraft who[N]
+shape the battlefield with magic.[X]
 
-## GendarmeName^
-Gendarme[X]
+## ShamanDesc
+Practitioners of dark arts[N]
+with an affinity for magic.[X]
 
-## GendarmeDesc*
-Heavily armoured riders who[N]
-crush opponents underfoot.[X]
+## DruidDesc
+Masters of deep magic who show[N]
+incredible raw prowess.[X]
 
-## FighterName^
-Fighter[X]
+## PriestClericDesc
+ [X]
 
-## FighterDesc*
-Big guy.[X]
+## BishopDesc
+ [X]
+
+## TroubadourDesc
+ [X]
+
+## MageKnightDesc
+ [X]
+
+## DancerDesc
+ [X]
+
+## SummonerDesc
+Advanced black magic users with[N]
+the ability to summon phantoms.[X]
+
+## GreatKnightDesc
+Powerful heavy cavalry whose[N]
+thunderous hooves inspire terror.[X]
+
+## AssassinDesc
+ [X]
+
+## WyvernKnightDesc
+ [X]
+
+## ManaketeDesc
+ [X]
+
+## RecruitDesc
+ [X]
+
+## JourneymanDesc
+ [X]
+
+## PupilDesc
+ [X]
+
+## RevenantDesc
+ [X]
+
+## EntombedDesc
+ [X]
+
+## BonewalkerDesc
+ [X]
+
+## WightDesc
+ [X]
+
+## MogallDesc
+Floating eyes filled with cursed[N]
+power. Seeing one is an ill omen.[X]
+
+## BalorName
+Balor[X]
+
+## BalorDesc
+Ancient Mogalls with demonic power.[N]
+It's gaze brings great misfortune.[X]
+
+## MautheDoogDesc
+ [X]
+
+## GwyggliDesc
+ [X]
+
+## TarvosDesc
+ [X]
+
+## MaelduinDesc
+ [X]
+
+## GargoyleDesc
+Stone skinned fiends who hunt[N]
+humans from the skies.[X]
+
+## DeathgoyleDesc
+Gargoyles empowered by magic. They[N]
+are both swift and brutal.[X]
+
+## BaelDesc
+ [X]
+
+## GorgonEggDesc
+Unsettling eggs that[N]
+give rise to gorgons.[X]
+
+## GorgonDesc
+Beautiful yet unnerving serpents whose[N]
+cursed gaze turn all to stone.[X]
+
+## CyclopsDesc
+One-eyed giants boasting inhuman[N]
+strength and durability.[X]
+
+## DracozombieDesc
+ [X]
+
+## PhantomDesc
+ [X]

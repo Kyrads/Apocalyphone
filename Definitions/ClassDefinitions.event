@@ -1,92 +1,171 @@
-// Player Classes
+//Free Class Slots: N/A
+//Add unimplemented classes only if you choose to use them. If you implement a T1, implement its T2.
+//Unimplemented class ID's lose priority if you need to add an undefined class.
+//Just remember to comment them out
 
-//redefining knights
-#define Knight_A 0x9 //Also just Knight
-#define Knight_B 0xa
+//Unimplemented* - Must stay defined as highly likely to be used
+//Classes 133/255
+//Classes that need character anims for gender: Cavalier/Paladin (F), Pegasus/Falco (M)
+//Summoner (F), Valkyrie (M), Horseman/Ranger (F)
 
-#define Thief_F 0xe
+//Player Classes
 
-#define PegasusKnight_M 0x20
-#define Falcoknight FalcoKnight //Ideally stick to this
-#define FalconKnight FalcoKnight
-#define FalcoKnight_M 0x22
-#define Falcoknight_M 0x22 //Ideally stick to this
-#define FalconKnight_M 0x22
-#define Dracoknight 0x21 //Ideally stick to this
-#define DracoKnight 0x21
-#define DragonKnight 0x21
+#define Survivor 0x02
+#define Vagabond 0x04
 
+//Cavaliers will have character animations for Females
+#define Cavalier_S 0x06
+#define Cavalier_L 0x05 //Cavalier Def
+#define Cavalier_A 0x01
 
-#define Scholar Shaman
-#define Scholar_F Shaman_F
-#define Sorcerer Druid
-#define Sorcerer_F Druid_F
+//Paladins will have character animations for Females
+#define Paladin_SL 0x07 //Paladin Def
+#define Paladin_LA 0x08
+#define Paladin_SA 0x04
 
-#define Gendarme 0x35
+//Knights are gender neutral
+#define Knight_S 0x0A
+#define Knight_L 0x09 //Knight Def
+#define Knight_A 0x0C
+#define Knight_B 0x36
 
-#define Freelancer 0x54
-#define Deserter 0x54
-#define Freelancer_F 0x55
-#define Deserter_F 0x55
-#define Champion 0x56
-#define Champion_F 0x57
+#define Thief_F 0x0E
 
-#define Soldier_F 0x58
+//Pegasi will have character animations for Males
+#define PegasusKnight_S 0x72
+#define PegasusKnight_L 0x48 //PegasusKnight Def
+#define PegasusKnight_A 0x37
+#define Falcoknight FalcoKnight
+#define Falcoknight_SL 0x49 //Falcoknight Def
+#define Falcoknight_LA 0x38
+#define Falcoknight_SA 0x39
 
-#define Fighter_F 0x7A
+//Wyvern Riders, Knights & Dracoknights are gender neutral
+#define WyvernRider_S 0x20
+#define WyvernRider_L 0x1F //WyvernRider Def
+#define WyvernRider_A 0x3A
+#define Dracoknight_SL 0x21
+#define Dracoknight_LA 0x22
+#define Dracoknight_SA 0x73
+#define Dracoknight Dracoknight_SL
+#define WyvernKnight_S 0x24
+#define WyvernKnight_L 0x23 //WyvernKnight Def
+#define WyvernKnight_A 0x74 //unimplemented
 
-#define Cavalier_S 0x7e
+#undef Manakete
+#define Manakete 0x3B //unimplemented
+#define Manakete_F 0x80 //unimplemented
+#define ManaketeChild 0x3C//unimplemented
+#define ManaketeChild_M 0x81 //unimplemented
 
+#define Horseman 0x1E
 
-//Statted classes, for personal ref
-	/*
-		Key:
-			(X) = Stats
-			(X)(X) = Stats + Graphics
-			(T) = Terrain Data
-			(N) = Names + Descriptions + Definitions
-			(G) = Gender Stats
-			(GX) = All Gender Work Complete (Redundant but required for FC)
-			(FC) = Fully Complete aka (X)(X)(T)(N)(GX)
-			//
-		- Lord (X)(G) //Temp Graphics
-		- Great Lord
-		- Mercenary (X)
-		- Hero
-		- Myrmidon (X)
-		- Swordmaster
-		- Soldier (X)(G)
-		- Halberdier
-		- Freelancer (X)
-		- Champion
-		- Fighter (X)
-		- Warrior
-		- Raider (X)
-		- Reaver
-		- Archer (X)
-		- Sniper
-		- Thief (X)
-		- Rogue or Assassin
-		- Knight_A (X)
-		- Knight_B (X)
-		- General (X)
-		- Gendarme (X)
-		- Cavalier (X)
-			- Cavalier Triangle(?)
-		- Paladin
-		- Peg (X)(G)
-		- Falcoknight
-		- Wyvern (X)
-		- Dracoknight
-		- Mage (X)(G)
-		- Sage (X)(G)
-		- Scholar (X)(G)
-		- Sorcerer (X)(G)
-		- Curate (X)
-		- Bishop
-		- Curate
-		- Troubadour (X)
-		- Mage Knight
-		- Civilians (X)(X)(G)
-		- Empress
-	*/
+#define Fighter_F 0x75 //unimplemented*
+#define Warrior_F 0x76 //unimplemented*
+
+#define Brigand_F 0x7A //unimplemented
+#define Pirate_F 0x50 //unimplemented
+#define Berserker_F 0x7B //unimplemented
+
+#define Soldier_F 0x4F //unimplemented*
+//Halberdier is gender neutral
+#define Halberdier 0x46
+
+#define Freelancer 0x7C
+#define Freelancer_F 0x7D //unimplemented
+#define Champion 0x7E
+#define Champion_F 0x7F //unimplemented
+
+#define Troubadour_M 0x71 //unimplemented
+#define Monk_F 0x82 //unimplemented
+//#define Valkyrie_M 0x83 //unimplemented
+#define Rogue_F 0x83 //unimplemented
+
+//Nicknames/Altnames
+#define Cav_S Cavalier_S
+#define Cav_L Cavalier_L
+#define Cav_A Cavalier_A
+
+#define PegKnight_S PegasusKnight_S
+#define PegKnight_L PegasusKnight_L
+#define PegKnight_A PegasusKnight_A
+#define Peg_S PegasusKnight_S
+#define Peg_L PegasusKnight_L
+#define Peg_A PegasusKnight_A
+
+#define Wyvern_S WyvernRider_S
+#define Wyvern_L WyvernRider_L
+#define Wyvern_A WyvernRider_A
+
+#define WyvernK_S WyvernKnight_S
+#define WyvernK_L WyvernKnight_L
+#define WyvernK_A WyvernKnight_A
+
+//Enemy Classes
+#define Bonewalker_S 0x32
+#define Bonewalker_B 0x55
+#define Bonewalker_L 0x54
+
+#define Wight_SL 0x56
+#define Wight_LB 0x57
+
+#define Balor ArchMogall
+
+#define Necrodragon DracoZombie
+
+//Nicknames/Altnames Enemy
+#define MautheDoog Mauthedoog
+#define Doog Mauthedoog
+
+//Personal Ref so i dont forget
+/*#define Recruit 0x47
+#define Journeyman 0x3D
+#define Pupil 0x3E*/
+
+/*
+Classes Implemented:
+Key: A = With Assets, M = Male Only
+
+Mag:
+Survivor
+Vagabond 
+Cavalier SLA
+Paladin SL,LA,SA
+Knight SLAB
+General
+Great Knight
+Mercenary
+Hero
+Myrmidon
+Swordmaster
+Thief
+Assassin
+Archer
+Sniper
+Horseman
+Ranger
+Wyvern Rider SLA
+Dracoknight SL,LA,SA
+Wyvern Knight SL
+Mage
+Sage
+Mage Knight
+Shaman - A
+Druid - A
+Summoner
+Fighter - M
+Warrior - M
+Monk - M
+Priest
+PegKnight L
+Soldier - M
+Entombed - A
+Bonewalker SLB - A
+Mogall - A
+Balor - A
+Gargoyle - A
+
+NoMag:
+Freelancer
+Champion
+*/

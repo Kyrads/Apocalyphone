@@ -19,10 +19,9 @@ prep_shop_each_chapter2_table:
 
 ALIGN 4
 PrepShop1:
-SHLI Sword Shortsword Spear ShortSpear Javelin Axe Axe HandAxe Bow Shortbow Fire Fire Heal Vulnerary Torch 
+SHLI IronSword
 ALIGN 4
 
 ALIGN 4
 PrepShop2:
-SHLI Sword Shortsword Longsword Spear ShortSpear Lance Javelin Axe Axe BattleAxe BattleAxe HandAxe Bow Shortbow Longbow Fire Fire Thunder Heal Mend Vulnerary Torch
-ALIGN 4
+SHLI IronSword

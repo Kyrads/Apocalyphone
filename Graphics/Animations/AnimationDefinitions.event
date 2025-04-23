@@ -1,4 +1,3 @@
-
 #ifndef ClassAnimTable
   #ifdef _FE8_
     #define ClassAnimTable (0xc00008-0x20)
@@ -14,6 +13,7 @@
 #define LanceAnim(Animation) "BYTE 0x01 0x01 ; SHORT Animation"
 #define AxeAnim(Animation) "BYTE 0x02 0x01 ; SHORT Animation"
 #define HandAxeAnim(Animation) "BYTE HandAxe 0x00 ; SHORT Animation ; BYTE Tomahawk 0x00 ; SHORT Animation ; BYTE Hatchet 0x00 ; SHORT Animation"
+#define BowAnim(Animation) "BYTE 0x03 0x01 ; SHORT Animation"
 #define StaffAnim(Animation) "BYTE 0x04 0x01 ; SHORT Animation"
 #define AnimaAnim(Animation) "BYTE 0x05 0x01 ; SHORT Animation"
 #define LightAnim(Animation) "BYTE 0x06 0x01 ; SHORT Animation"
@@ -24,21 +24,25 @@
 #define SpecialAnim(Animation,Weapon) "BYTE Weapon 0x00 ; SHORT Animation"
 #define EndAnim "WORD 0x0"
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-//Lord Animations
-#define LordLanceAnim 0x1
+//Survivor Animations
+#define SurvivorSwordAnim 0x1 //Eirika Sword
 
 ALIGN 4
-LordAnims:
-	LanceAnim(LordLanceAnim)
+SurvivorAnims:
+	SwordAnim(SurvivorSwordAnim)
 EndAnim
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 //Knight Animations
-#define KnightSwordAnim 0x40 //Replaces Knight Lance
-#undef KnightLanceAnim
-#define KnightLanceAnim 0x41 //Replaces Knight Unarmed
-#define KnightAxeAnim 0x42 //Replaces F_Knight Lance
-#define KnightHandaxeAnim 0x49 //Replaces F_Gen Sword
+	#define KnightSwordAnim 0x40 //Replaces Knight Lance
+	#undef KnightLanceAnim
+	#define KnightLanceAnim 0x41 //Replaces Knight Unarmed
+	#define KnightAxeAnim 0x42 //Replaces F_Knight Lance
+	#define KnightHandaxeAnim 0x49 //Replaces F_Gen Sword
+	#define KnightBowAnim 0x4A //Replaces F_Gen Lance
 
 ALIGN 4
 KnightAnims:
@@ -46,14 +50,7 @@ KnightAnims:
 	LanceAnim(KnightLanceAnim)
 	AxeAnim(KnightAxeAnim)
 	HandAxeAnim(KnightHandaxeAnim)
+	BowAnim(KnightBowAnim)
 EndAnim
 
-//Lord Animations
-#define FighterFAxeAnim 0xB6 //Maelduin Axe
-#define FighterFHandaxeAnim 0xB7 //Maelduin Handaxe
-
-ALIGN 4
-FighterFAnims:
-	AxeAnim(FighterFAxeAnim)
-	HandAxeAnim(FighterFHandaxeAnim)
-EndAnim
+//////////////////////////////////////////////////////////////////////////////////////////////////////////

@@ -1,6 +1,5 @@
-
 {
-	#include "Anims/Lord/LanceInstaller.event"
+	#include "Anims/Survivor/SwordInstaller.event"
 }
 
 {
@@ -8,9 +7,5 @@
 	#include "Anims/Knight/LanceInstaller.event"
 	#include "Anims/Knight/AxeInstaller.event"
 	#include "Anims/Knight/HandaxeInstaller.event"
-}
-
-{
-	#include "Anims/FighterF/AxeInstaller.event"
-	#include "Anims/FighterF/HandaxeInstaller.event"
+	#include "Anims/Knight/BowInstaller.event"
 }

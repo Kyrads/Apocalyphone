@@ -107,6 +107,10 @@
   ALIGN 4
   BiorhythmTextIDLink:
   SHORT SS_BiorhythmText
+  ALIGN 4
+  SkillsTextIDLink:
+  SHORT SS_SkillsText
+  ALIGN 4
   
   #ifndef USE_STRMAG_SPLIT
   

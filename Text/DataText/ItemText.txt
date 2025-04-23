@@ -1,200 +1,612 @@
-## HorseslayerName^
-Horseslayer[X]
+## ClaymoreName
+Claymore[X]
 
-## HorseslayerDesc*
-Effective vs. [Horse][X]
+## AntiCavDesc
+3x effective against [Horse][X]
 
-## JavelinName^
-Javelin[X]
+## AntiArmourDesc
+3x effective against [Armour][X]
 
-## JavelinDesc*
+## AntiDragonDesc
+3x effective against [Dragon][X]
+
+## AntiFlierDesc
+3x effective against [Flier] & [Dragon][X]
+
+## AntiMonsterDescA
+2x effective against [Monster][X]
+
+## AntiMonsterDescB
+3x effective against [Monster][X]
+
+## SwiftSwordName
+SwiftSword[X]
+
+## SwiftDesc
+Follow up attacks occur immediately.[X]
+
+## RubySwordName
+Ruby Sword[X]
+
+## GemDesc
+Doubles effects of weapon triangle.[X]
+
+## ReaverDesc
+Inverts the weapon triangle.[X]
+
+## LightBrandDesc
+Suffused with light magic[N]
+Uses magic at range.[X]
+
+## WindSwordDesc
+Imbued with wind magic.[N]
+3x effective against [Flier] & [Dragon].[X]
+
+## ShamshirDesc
+Greatly improves critical[N]
+hit rate.[X]
+
+## BraveDesc
+Strikes twice per attack.[X]
+
+## FlameBladeName
+Flame Blade[X]
+
+## FlameBladeDesc
+Suffused with flames.[N]
+Uses magic at range.[X]
+
+## RuneswordDesc
+Drains HP with dark magic.[X]
+
+## LunarBladeName
+Lunar Blade[X]
+
+## LunarBladeDesc
+A blade suffused with magic.[N]
+Targets res and grants +6 res.[X]
+
+## ThrowDesc
 Cannot double at range.[X]
 
-## SaunionName^
-Saunion[X]
+## IronHalberdName
+Iron Halberd[X]
 
-## SaunionDesc*
-Cannot double at range.[X]
+## SteelHalberdName
+Steel Halberd[X]
 
-## AxeName^
-Axe[X]
+## SwiftLanceName
+Swift Lance[X]
 
-## BattleAxeName^
-Battle Axe[X]
+## SapphireLanceName
+Sapphire Lance[X]
 
-## RegalAxeName^
-Regal Axe[X]
+## PikeName
+Pike[X]
 
-## PoleaxeName^
-Poleaxe[X]
+## PikeDesc
+Always strikes first.[X]
 
-## DevilAxeName^
-Devil Axe[X]
+## GlaiveName
+Glaive[X]
 
-## DevilAxeDesc*
-Has a chance to backfire based on luck.[X]
+## GlaiveDesc
+Strikes foes surrounding wielder.[X]
 
-## HandAxeName^
-Hand Axe[X]
+## SilverHalberdName
+SilverHalberd[X]
 
-## HammerName^
-Hammer[X]
+## AhlspeissName
+Pierces opponent's defence.[X]
 
-## HammerDesc*
-Effective vs. [ArmorIcon][X]
+## LonginusName
+Longinus[X]
 
-## BowName^
-Bow[X]
+## LonginusDesc
+2x effective against [Monster][N]
+Grants +5 Defence.[X]
 
-## LongBowName^
-Longbow[X]
+## SlimAxeName
+Slim Axe[X]
 
-## RegalBowName^
-Regal Bow[X]
+## IronPoleaxeName
+Iron Poleaxe[X]
 
-## ShortbowName^
+## SteelPoleaxeName
+Steel Poleaxe[X]
+
+## SwiftAxeName
+Swift Axe[X]
+
+## EmeraldAxeName
+EmeraldAxe[X]
+
+## ShortAxeName
+Short Axe[X]
+
+## ImposingAxeName
+Imposing Axe[X]
+
+## ImposingAxeDesc
+Cannot be countered or counter.[X]
+
+## LabrysName
+Labrys[X]
+
+## LabrysDesc
+Sends opponents flying.[X]
+
+## DevilAxeDesc
+ [X]
+
+## SwordslayerDesc
+An axe for breaking swordsmen.[X]
+
+## SAxeDesc
+2x effective against [Monster][N]
+Grants +5 Strength.[X]
+
+## SlimBowName
+SlimBow[X]
+
+## IronWarbowName
+Iron Warbow[X]
+
+## ShortbowName
 Shortbow[X]
 
-## ShortbowDesc*
- [X]
+## ShortbowDesc
+Can counter up close.[X]
 
-## GreatbowName^
+## LongbowDesc
+3x effective against [Flier] & [Dragon][N]
+Extended attack range.[X]
+
+## BeaconBowDesc
+2x effective against [Monster][N]
+& 3x effective against [Flier][X]
+
+## SteelWarbowName
+Steel Warbow[X]
+
+## SwiftBowName
+Swift Bow[X]
+
+## TrickBowName
+Trick Bow[X]
+
+## TrickBowDesc
+Uses magic to attack.[X]
+
+## SpellbaneName
+Spellbane[X]
+
+## SpellbaneDesc
+3x effective against [Magic][N]
+& [Flier] +8 Res.[X]
+
+## YabusameName
+Yabusame[X]
+
+## YabusameDesc
+3x effective against [Horse][N]
+[Armour] & [Flier][X]
+
+## HeavyBowName
+Heavy Bow[X]
+
+## HeavyBowDesc
+Inflicts break on opponents.[X]
+
+## SilverWarbowName
+Silver Warbow[X]
+
+## GreatbowName
 Greatbow[X]
 
-## GreatbowDesc*
- [X]
+## GaleBowName
+Gale Bow[X]
 
-## BallistaName^
-Ballista[X]
+## GaleBowDesc
+Refreshes the user after[N]
+defeating an opponent.[X]
 
-## ArbalestName^
-Arbalest[X]
+## SBowDesc
+2x effective against [Monster][N]
+Grants +6 Skill.[X]
 
-## SiegeBallistaName^
-SiegeBallista[X]
-
-## FireName^
-Fire[X]
-
-## ThunderName^
-Thunder[X]
-
-## ElfireName^
-Elfire[X]
-
-## BoltingName^
-Bolting[X]
-
-## BoltingDesc*
-Long-range lightning strike.[X]
-
-## FimbulvetrName^
-Fimbulvetr[X]
-
-## WindName^
+## WindName
 Wind[X]
 
-## ShineName^
-Shine[X]
+## ShaverName
+Shaver[X]
 
-## PurgeName^
-Purge[X]
+## StaticName
+Static[X]
 
-## PurgeDesc*
-Long-range light blast.[X]
+## StaticDesc
+Immobilizes opponents.[X]
 
-## FluxName^
-Flux[X]
+## CleanseName
+Cleanse[X]
 
-## DuskName^
+## CombustionName
+Combustion[X]
+
+## CombustionDesc
+Damages foes surrounding target.[X]
+
+## DyrnwynDesc
+2x effective against [Monster][N]
+Grants +5 Resistance.[X]
+
+
+## ImbueName
+Imbue[X]
+
+## ImbueDesc
+Heals allies when attacking.[X]
+
+## SaggitaeName
+Saggitae[X]
+
+## MoonlightName
+Moonlight[X]
+
+## GuardianName
+Guardian[X]
+
+## GuardianDesc
++8 defence & resistance.[X]
+
+## SeraphimName
+Seraphim[X]
+
+## SanctusName
+Sanctus[X]
+
+## SanctusDesc
+2x effective against [Monster][N]
+Grants +6 Luck.[X]
+
+## DuskName
 Dusk[X]
 
-## DuskDesc*
- [X]
+## LunaDesc
+Negates enemy resistance.[N]
+Cannot miss.[X]
 
-## NosferatuName^
-Nosferatu[X]
+## UmbraName
+Umbra[X]
 
-## NosferatuDesc*
-Drains opponent HP into caster.[X]
+## CorruptName
+Corrupt[X]
 
-## EclipseDesc*
-Long-range dark siege.[X]
+## VerrineName
+Verrine[X]
 
-## HealName^
-Heal[X]
+## VerineDesc
+Adds missing HP to damage.[X]
 
-## HealDesc*
-Restores HP to allies[N]
-in adjacent spaces.[X]
+## SeerName
+Seer[X]
 
-## MendName^
-Mend[X]
+## SeerDesc
+Reduces enemy HP to 1.[X]
 
-## MendDesc*
-Restores moderate HP to[N]
-allies in adjacent spaces.[X]
+## BelialName
+Belial[X]
 
-## MendUseText*
+## GoetiaName
+Goetia[X]
+
+## GoetiaDesc
+2x effective against [Monster][N]
+Grants +5 Magic.[X]
+
+## HealDesc
+Restores HP to allies.[X]
+
+## HealUseText
+Restores HP.[X]
+
+## MendDesc
+Restores moderate HP to allies.[X]
+
+## MendUseText
 Restores moderate HP.[X]
 
-## PhysicName^
-Physic[X]
+## RecoverDesc
+Restores vast HP to allies.[X]
 
-## PhysicDesc*
-Restores HP to allies[N]
+## RecoverUseText
+Restores vast HP.[X]
+
+## UnlockDesc
+Opens locks, even from[N]
+a distance[X]
+
+## UnlockUseText
+Opens locks.[X]
+
+## SigilName
+Sigil[X]
+
+## SigilDesc
+Places a light rune[N]
 at a distance.[X]
 
-## RecoverName^
-Recover[X]
+## SigilUseText
+Places light rune.[X]
 
-## RecoverDesc*
-Restores great HP to[N]
-allies in adjacent spaces.[X]
+## LongBallistaName
+Long Ballista[X]
 
-## RestoreName^
-Restore[X]
+## RainBallistaName
+Rain Ballista[X]
 
-## RestoreDesc*
-Cures allies of status[N]
-ailments. (Sleep, Poison, etc.)[X]
+## ArbalestName
+Arbalest[X]
 
-## RestoreUseText*
-Curest status ailments.[X]
+## DaggerDesc
+Ignore defence in melee.[N]
+Strike twice per attack.[X]
 
-## NobleLanceName^
-Noble Lance[X]
+## IronDaggerName
+Iron Dagger[X]
 
-## NobleLanceDesc*
-Effective vs. [HorseIcon] [ArmorIcon][X]
+## VeninDaggerName
+Venin Dagger[X]
 
-## KeyName^
-Key[X]
+## VeninDaggerDesc*
+Ignore defence in melee. Inflicts[N]
+Poison. Strike twice per attack.[X]
 
-## KeyDesc*
-Opens doors and chests.[X]
+## SteelDaggerName
+Steel Dagger[X]
 
-## EclipseName^
-Eclipse[X]
+## MainGaucheName
+Main Gauche[X]
 
-## HalberdName^
-Halberd[X]
+## MainGaucheDesc*
+Ignore defence in melee. +25[N]
+avoid. Strike twice per attack.[X]
 
-## HalberdDesc*
- [.][X]
+## WingclipperName
+Wingclipper[X]
 
-## RegalGreataxeName^
-Regal Greataxe[X]
+## WingclipperDesc
+Ignore defence in melee. 3x effective[N]
+against [Flier] & [Dragon]. Strike twice per attack.[X]
 
-## RegalGreataxeDesc*
- [.][X]
+## SilencerName
+Silencer[X]
 
-## MessageFatigueRestored
-Fatigue restored[X]
+## SilencerDesc
+Ignore defence. Silences foe.[N]
+Strike twice per attack.[X]
 
-## GreenGemName^
+## SilverDaggerName
+Silver Dagger[X]
+
+## PhantomAxeName
+Phantom Axe[X]
+
+## RipperTalonName
+Ripper Talon[X]
+
+## PiercingTalonName
+PiercingTalon[X]
+
+## RabidFangName
+Rabid Fang[X]
+
+## RabidFangDesc
+Inflicts berserk on contact[X]
+
+## GazingEyeName
+Gazing Eye[X]
+
+## GazingEyeDesc
+Inflicts silence on contact.[N]
+Cannot double[X]
+
+## StoneDesc
+Petrifies foe. Cannot double.[X]
+
+## DragonstoneDesc
+A stone imbued with mysterious might.[N]
+Provides great strength.[X]
+
+## GigantAxeName
+Gigant Axe[X]
+
+## ElixirDesc
+A powerful solution that[N]
+heals much HP.[X]
+
+## ElixirUseText
+Heals much HP.[X]
+
+## RationsName
+Rations[X]
+
+## RationsDesc
+Restores a moderate amount[N]
+of fatigue.[X]
+
+## RationsUseText
+Restores fatigue.[X]
+
+## EnergyHerbsName
+Energy Herbs[X]
+
+## EnergyHerbsDesc
+Restores a large amount[N]
+of fatigue.[X]
+
+## EnergyHerbsUseText
+Restores much fatigue.[X]
+
+## GreenGemName
 Green Gem[X]
 
-## GreenGemDesc*
+## GreenGemDesc
 A common gemstone[N]
-worth 1,000 gold.[X]
+worth 1000 gold.[X]
+
+## BlueGemDesc
+A valuable gemstone[N]
+worth 5000 gold.[X]
+
+## WhiteGemDesc
+A rare gemstone[N]
+worth 10,000 gold.[X]
+
+## BlackGemDesc
+A precious gemstone[N]
+worth 20,000 gold.[X]
+
+## TseScrollName
+Tse's Scroll[X]
+
+## TseScrollDesc
+Increases the potential[N]
+of the unit that uses it...[X]
+
+## LitanyDesc
+A dance that increases[N]
+allies' accuracy and evasion.[X]
+
+## LitanyUseText
+Increases allies' accuracy[N]
+and evasion for a turn.[X]
+
+## AngelicRobeDesc
+Increases max HP by 4 points.[N]
+Vanishes after use.[X]
+
+## EnergyRingDesc
+Increases strength by 2 points.[N]
+Vanishes after use.[X]
+
+## EnergyRingUseText
+Raises strength.[X]
+
+## GoddessIconDesc
+Increases luck by 3 points.[N]
+Vanishes after use.[X]
+
+## SecretBookDesc
+Increases skill by 3 points.[N]
+Vanishes after use.[X]
+
+## SwiftsoleDesc
+Increases movement by 1[N]
+point. Vanishes after use.[X]
+
+## TalismanDesc
+Increases resistance by[N]
+3 points. Vanishes after use.[X]
+
+## HeroCrestDesc
+For mercenaries, myrmidons, fighters[N]
+and freelancers Lv. 10 and up.[X]
+
+## HeroCrestUseText
+Use this on a worthy[N]
+mercenary, myrmidon[N]
+fighter or freelancer.[X]
+
+## KnightCrestDesc
+For soliders, knights and[N]
+cavaliers Lv. 10 and up.[X]
+
+## KnightCrestUseText
+Use this on a worthy[N]
+soldier, knight[N]
+or cavalier.[X]
+
+## OrionBoltDesc
+For archers and horsemen[N]
+Lv. 10 and up.[X]
+
+## OrionBoltUseText
+Use this on a worthy[N]
+archer or horseman.[X]
+
+## GuidingRingDesc
+For magic wielders[N]
+Lv. 10 and up.[X]
+
+## GuidingRingUseText
+Use this on a worthy[N]
+wielder of magic[N]
+tomes or staves.[X]
+
+## OceanSealDesc
+For thieves, brigands and[N]
+pirates Lv. 10 and up.[X]
+
+## OceanSealUseText
+Use this on a worthy[N]
+thief, brigand or[N]
+pirate.[X]
+
+## MasterSealDesc
+Can promote any unit Lv. 10[N]
+and up to an advanced class.[X]
+
+## SecretSealDesc
+Can promote some units Lv.[N]
+10 and up to special classes.[X]
+
+## SecretSealUseText
+Use this on a compatible[N]
+unit Lv. 10 and up who is[N]
+yet to change class.[X]
+
+## IronRuneName
+Iron Rune[X]
+
+## IronRuneDesc
+A rune that negates[N]
+enemy critical attacks.[X]
+
+## HoplonDesc
+A guard that negates[N]
+anti-armour weaponry.[X]
+
+## BaliusWardName
+Balius Ward[X]
+
+## BaliusWardDesc
+A ward that negates[N]
+anti-cavalry weaponry.[X]
+
+## GlaedrCharmName
+Glaedr Charm[X]
+
+## GlaedrCharmDesc
+A charm that negates[N]
+anti-dragon weaponry.[X]
+
+## FiliShieldDesc
+A shield that negates[N]
+anti-aerial weaponry.[X]
+
+## DarkIdolName
+Dark Idol[X]
+
+## DarkIdolDesc
+An idol that negates[N]
+anti-monster effects.[X]
+
+## SpiritDustName
+Spirit Dust[X]
+
+## SpiritDustDesc
+ [X]
+
+## SpiritDustUseText
+ [X]

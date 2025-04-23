@@ -1,26 +1,7 @@
 This text file is purely for documenting purposes
 
 Immediate To-Do's
-
-- Fatigue Rework
-	- Exp Changes (Done)
-	- Fatigue Debuffs (Done)
-	- Implement Endurance Getter to ASM (Done)
-	- Ftg Gain Changes (Done)
-	- Fatigue Restore Changes (Done)
-	- Stat Screen Integration
-	- Increase Summon Fatigue Cost (Done)
-	- Rescue, Mov Skill & Poison Fatigue (Done)
-
-
-- EXP Tweaks
-	- Boss exp +10 after cap, also for t1 vs promoted, stacks.
-	- Account for t1's 'over' lvl 20, display them as lvl 20 always.
-	- Bosses Reroll 3 times for a level that includes str, spd or def.
-
-- Redo my text stuff make it less stinky more consolidated
-
-- Change to Icon Sheet Installer
+- Go through macros and customdefs
 
 
 Major Bugs:

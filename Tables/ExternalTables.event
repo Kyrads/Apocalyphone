@@ -81,5 +81,5 @@ WORD 0xFFFFFFFF 0xFFFFFFFF // For FEBuilder to show no further data with
 
 	ALIGN 4
 	ThrowablesList:
-	BYTE Javelin HandAxe Saunion Tomahawk 0
+	BYTE Javelin ShortSpear HandAxe ShortAxe Spear Tomahawk 0
 
