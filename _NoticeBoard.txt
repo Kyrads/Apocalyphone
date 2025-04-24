@@ -1,8 +1,9 @@
 This text file is purely for documenting purposes
 
 Immediate To-Do's
-- Eval ASMC/CHAX
 - Fix Major Bugs
+- Autolevel Code
+- Tables
 
 
 Major Bugs:
@@ -14,4 +15,3 @@ Minor Bugs:
 - Droppable/Stealable Graphic appears when silencing a unit.
 - S Rank doesnt go epic green
 - Summon (and possibly other actions) giving too much exp in fatigue state when a 1HP unit so the logic somewhere in my CHAX is probably bad.
-- All my vanilla item name text is fucking missing????? Whar???

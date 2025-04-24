@@ -124,48 +124,18 @@
 
 /*
 Classes Implemented:
-Key: A = With Assets, M = Male Only
+Key: A = With Assets, G = Both Genders M = Mag Stat
 
-Mag:
 Survivor
 Vagabond
+Mercenary G
+Myrmidon G
+Soldier
+Freelancer G
+Champion G
+Fighter
+Brigand
+Pirate
+Archer G
 Cavalier SLA
-Paladin SL,LA,SA
 Knight SLAB
-General
-Great Knight
-Mercenary
-Hero
-Myrmidon
-Swordmaster
-Thief
-Assassin
-Archer
-Sniper
-Horseman
-Ranger
-Wyvern Rider SLA
-Dracoknight SL,LA,SA
-Wyvern Knight SL
-Mage
-Sage
-Mage Knight
-Shaman - A
-Druid - A
-Summoner
-Fighter - M
-Warrior - M
-Monk - M
-Priest
-PegKnight L
-Soldier - M
-Entombed - A
-Bonewalker SLB - A
-Mogall - A
-Balor - A
-Gargoyle - A
-
-NoMag:
-Freelancer
-Champion
-*/

@@ -7,3 +7,4 @@
 
 // Enemies
 
+#define TestEnemy 0xD0
