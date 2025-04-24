@@ -1,13 +1,17 @@
 This text file is purely for documenting purposes
 
 Immediate To-Do's
-- Go through macros and customdefs
+- Eval ASMC/CHAX
+- Fix Major Bugs
 
 
 Major Bugs:
+- Seizing causes major stat wonk.
+- Unit screen is extremely screwed.
 
 Minor Bugs:
 - Graphical bug on mend use description. Probably unintended to use narrowfont here.
 - Droppable/Stealable Graphic appears when silencing a unit.
 - S Rank doesnt go epic green
 - Summon (and possibly other actions) giving too much exp in fatigue state when a 1HP unit so the logic somewhere in my CHAX is probably bad.
+- All my vanilla item name text is fucking missing????? Whar???
