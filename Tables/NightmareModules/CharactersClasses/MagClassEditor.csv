@@ -36,8 +36,8 @@ Dracoknight (SL),1,5,25,1
 Dracoknight (LA),1,5,25,1
 Wyvern Knight (L),1,5,25,1
 Wyvern Knight (S),1,5,25,1
-Mage,5,40,20,0
-Mage (F),5,40,20,0
+Mage,6,40,20,0
+Mage (F),6,40,20,0
 Sage,8,40,30,1
 Sage (F),8,40,30,1
 Mage Knight,8,40,30,1
@@ -54,7 +54,7 @@ Rogue,3,25,26,3
 Gorgon Egg,0,0,30,0
 Great Knight,1,5,25,1
 Knight (B),0,5,15,0
-Recruit (2),0,0,20,0
+Pegasus Knight (S),0,15,15,0
 Journeyman (3),0,0,22,0
 Pupil (3),5,55,29,2
 Wyvern Rider (A),0,5,15,0
@@ -67,7 +67,7 @@ Warrior,1,5,25,1
 Brigand,0,5,15,0
 Pirate,0,5,15,0
 Berserker,1,5,25,1
-Monk,4,40,20,0
+Monk,5,40,20,0
 Priest,7,45,20,0
 Bard,1,45,20,0
 Recruit (1),0,0,20,0
@@ -103,17 +103,17 @@ Deathgoyle,0,0,22,0
 Dracozombie,1,30,50,0
 Demon King,23,40,50,0
 Archer on Ballista,0,0,20,0
-Archer on Iron Ballista,0,0,20,0
-Archer on Killer Ballista,0,0,20,0
+Archer on Long Ballista,0,0,20,0
+Archer on Arbalest,0,0,20,0
 Ballista,0,0,20,0
-Iron Ballista,0,0,20,0
-Killer Ballista,0,0,20,0
+Long Ballista,0,0,20,0
+Arbalest,0,0,20,0
 Civilian,0,0,20,0
 Civilian (F),0,0,20,0
 Civilian,0,0,20,0
 Civilian (F),0,0,20,0
 Civilian,0,0,20,0
-Civilian (F),0,0,20,0
+Pegasus Knight (A),0,15,15,0
 Dracoknight (SA),1,5,25,1
 Queen,0,0,20,0
 Prince,0,0,20,0
@@ -123,10 +123,10 @@ Fallen Prince,0,0,20,0
 Tent,0,0,20,0
 Pontifex,0,0,20,0
 Dead Peer,0,0,20,0
-Cyclops,0,0,21,0
-Elder Bael,0,0,22,0
-Journeyman (2),0,0,20,0
-Pupil (2),2,55,20,1
+Freelancer,0,5,15,0
+Freelancer (F),0,5,15,0
+Champion,1,5,25,0
+Champion (F),1,5,25,1
 Ephraim Lord,1,10,20,0
 Ephraim Lord,1,10,20,0
 Ephraim Lord,1,10,20,0

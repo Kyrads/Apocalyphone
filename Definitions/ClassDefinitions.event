@@ -72,9 +72,9 @@
 #define Halberdier 0x46
 
 #define Freelancer 0x7C
-#define Freelancer_F 0x7D //unimplemented
+#define Freelancer_F 0x7D
 #define Champion 0x7E
-#define Champion_F 0x7F //unimplemented
+#define Champion_F 0x7F
 
 #define Troubadour_M 0x71 //unimplemented
 #define Monk_F 0x82 //unimplemented
@@ -124,7 +124,7 @@
 
 /*
 Classes Implemented:
-Key: A = With Assets, G = Both Genders M = Mag Stat
+Key: M = With Map Sprites, G = Both Genders, A = With Assets
 
 Survivor
 Vagabond
@@ -137,5 +137,16 @@ Fighter
 Brigand
 Pirate
 Archer G
+Horseman
 Cavalier SLA
 Knight SLAB
+Mage G
+Shaman G
+Monk
+Priest G
+Peg SLA M
+Wyvern SLA
+Thief
+
+Revenant M
+Bonewalker SLB

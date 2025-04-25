@@ -1,132 +1,132 @@
 INLINE ClassSkillTable,Skill
-0x00 Separator/Nothing,0x0
-0x01 Ephraim Lord,0x0
-0x02 Eirika Lord,RepositionID
-0x03 Ephraim Great Lord,CantoID
-0x04 Eirika Great Lord,RepositionID
-0x05 Cavalier,CantoPlusID
-0x06 Cavalier (F),CantoPlusID
-0x07 Paladin,CantoPlusID
-0x08 Paladin (F),CantoPlusID
-0x09 Armour Knight,RepositionID
-0x0A Armour Knight (F),RepositionID
-0x0B General,RepositionID
-0x0C General (F),RepositionID
-0x0D Thief,PivotID
-0x0E Manakete,PivotID
-0x0F Mercenary,ShoveID
-0x10 Mercenary (F),ShoveID
-0x11 Hero,ShoveID
-0x12 Hero (F),ShoveID
-0x13 Myrmidon,PivotID
-0x14 Myrmidon (F),PivotID
-0x15 Swordmaster,PivotID
-0x16 Swordmaster (F),PivotID
-0x17 Assassin,PivotID
-0x18 Assassin (F),PivotID
-0x19 Archer,SwapID
-0x1A Archer (F),SwapID
-0x1B Sniper,SwapID
-0x1C Sniper (F),SwapID
-0x1D Ranger,CantoPlusID
-0x1E Ranger (F),CantoPlusID
-0x1F Wyvern Rider,CantoPlusID
-0x20 Pegasus Knight (M),CantoPlusID
-0x21 Wyvern Lord,CantoPlusID
-0x22 Falcon Knight (M),CantoPlusID
-0x23 Wyvern Knight,CantoPlusID
-0x24 Wyvern Knight (F),CantoPlusID
-0x25 Mage,SwapID
-0x26 Mage (F),SwapID
-0x27 Sage,SwapID
-0x28 Sage (F),SwapID
-0x29 Mage Knight,CantoPlusID
-0x2A Mage Knight (F),CantoPlusID
-0x2B Bishop,SwapID
-0x2C Bishop (F),SwapID
-0x2D Shaman,SwapID
-0x2E Shaman (F),SwapID
-0x2F Druid,SwapID
-0x30 Druid (F),SwapID
-0x31 Summoner,SummonID
-0x32 Summoner (F),SwapID
-0x33 Rogue,PivotID
-0x34 Gorgon Egg,0x0
-0x35 Great Knight,CantoPlusID
-0x36 Great Knight (F),CantoPlusID
-0x37 Recruit (2),0x0
-0x38 Journeyman (3),0x0
-0x39 Pupil (3),0x0
-0x3A Recruit (3),0x0
-0x3B Manakete,0x0
-0x3C Manakete (F),0x0
-0x3D Journeyman (1),0x0
-0x3E Pupil (1),0x0
-0x3F Fighter,ShoveID
-0x40 Warrior,ShoveID
-0x41 Brigand,PivotID
-0x42 Pirate,PivotID
-0x43 Berserker,PivotID
-0x44 Monk,0x0
-0x45 Priest,SwapID
-0x46 Bard,0x0
-0x47 Recruit (1),0x0
-0x48 Pegasus Knight,CantoPlusID
-0x49 Falcon Knight,CantoPlusID
-0x4A Cleric,SwapID
-0x4B Troubadour,CantoPlusID
-0x4C Valkyrie,CantoPlusID
-0x4D Dancer,RepositionID
-0x4E Soldier,ShoveID
-0x4F Necromancer,0x0
-0x50 Fleet,0x0
-0x51 Phantom,0x0
-0x52 Revenant,0x0
-0x53 Entombed,0x0
-0x54 Freelancer,ShoveID
-0x55 Freelancer_F,ShoveID
-0x56 Champion,ShoveID
-0x57 Champion_F,ShoveID
-0x58 Soldier (F),ShoveID
-0x59 Elder Bael,0x0
-0x5A Cyclops,0x0
-0x5B Mauthe Doog,0x0
-0x5C Gwyllgi,0x0
-0x5D Tarvos,0x0
-0x5E Maelduin,0x0
-0x5F Mogall,0x0
-0x60 Arch Mogall,0x0
-0x61 Gorgon,0x0
-0x62 Gorgon Egg,0x0
-0x63 Gargoyle,0x0
-0x64 Deathgoyle,0x0
-0x65 Dracozombie,0x0
-0x66 Demon King,SummonID
-0x67 Archer on Ballista,0x0
-0x68 Archer on Iron Ballista,0x0
-0x69 Archer on Killer Ballista,0x0
-0x6A Ballista,0x0
-0x6B Iron Ballista,0x0
-0x6C Killer Ballista,0x0
-0x6D Civilian,0x0
-0x6E Civilian (F),0x0
-0x6F Civilian,0x0
-0x70 Civilian (F),0x0
-0x71 Civilian,0x0
-0x72 Civilian (F),0x0
-0x73 Peer,0x0
-0x74 Queen,0x0
-0x75 Prince,0x0
-0x76 Queen,0x0
-0x77 (empty),0x0
-0x78 Fallen Prince,0x0
-0x79 Tent,0x0
-0x7A Pontifex,0x0
-0x7B Fallen Peer,0x0
-0x7C Cyclops 2,0x0
-0x7D Elder Bael 2,0x0
-0x7E Cavalier (S),CantoPlusID
-0,0x0
+None,0x0
+Cavalier (A),CantoPlusID
+Survivor,RepositionID
+Paladin (SA),CantoPlusID
+Vagabond,RepositionID
+Cavalier (L),CantoPlusID
+Cavalier (S),CantoPlusID
+Paladin (SL),CantoPlusID
+Paladin (LA),CantoPlusID
+Knight (L),RepositionID
+Knight (S),RepositionID
+General,RepositionID
+Knight (A),RepositionID
+Thief,PivotID
+Thief (F),PivotID
+Mercenary,ShoveID
+Mercenary (F),ShoveID
+Hero,ShoveID
+Hero (F),ShoveID
+Myrmidon,PivotID
+Myrmidon (F),PivotID
+Swordmaster,PivotID
+Swordmaster (F),PivotID
+Assassin,PivotID
+Assassin (F),PivotID
+Archer,SwapID
+Archer (F),SwapID
+Sniper,SwapID
+Sniper (F),SwapID
+Ranger,CantoPlusID
+Horseman,CantoPlusID
+Wyvern Rider (L),CantoPlusID
+Wyvern Rider (S),CantoPlusID
+Dracoknight (SL),CantoPlusID
+Dracoknight (LA),CantoPlusID
+Wyvern Knight (L),CantoPlusID
+Wyvern Knight (S),CantoPlusID
+Mage,SwapID
+Mage (F),SwapID
+Sage,SwapID
+Sage (F),SwapID
+Mage Knight,CantoPlusID
+Mage Knight (F),CantoPlusID
+Bishop,SwapID
+Bishop (F),SwapID
+Shaman,SwapID
+Shaman (F),SwapID
+Druid,SwapID
+Druid (F),SwapID
+Summoner,SummonID
+Bonewalker (S),0x0
+Rogue,PivotID
+Gorgon Egg,0x0
+Great Knight,CantoPlusID
+Knight (B),RepositionID
+Pegasus Knight (S),CantoPlusID
+Journeyman (3),0x0
+Pupil (3),0x0
+Wyvern Rider (A),CantoPlusID
+Manakete,SmiteID
+Manakete (F),SmiteID
+Journeyman (1),0x0
+Pupil (1),0x0
+Fighter,ShoveID
+Warrior,ShoveID
+Brigand,ShoveID
+Pirate,ShoveID
+Berserker,ShoveID
+Monk,SwapID
+Priest,SwapID
+Bard,0x0
+Recruit (1),0x0
+Pegasus Knight (L),CantoPlusID
+Falcoknight (SL),CantoPlusID
+Cleric,SwapID
+Troubadour,CantoPlusID
+Valkyrie,CantoPlusID
+Dancer,RepositionID
+Soldier,ShoveID
+Necromancer,0x0
+Fleet,0x0
+Phantom,SwarpID
+Revenant,0x0
+Entombed,0x0
+Bonewalker (L),0x0
+Bonewalker (B),0x0
+Wight,0x0
+Wight (Bow),0x0
+Bael,0x0
+Elder Bael,0x0
+Cyclops,0x0
+Mauthe Doog,0x0
+Gwyllgi,0x0
+Tarvos,0x0
+Maelduin,0x0
+Mogall,0x0
+Balor,0x0
+Gorgon,0x0
+Gorgon Egg,0x0
+Gargoyle,0x0
+Deathgoyle,0x0
+Dracozombie,0x0
+Demon King,SummonID
+Archer on Ballista,0x0
+Archer on Long Ballista,0x0
+Archer on Arbalest,0x0
+Ballista,0x0
+Long Ballista,0x0
+Arbalest,0x0
+Civilian,SwapID
+Civilian (F),SwapID
+Civilian,SwapID
+Civilian (F),SwapID
+Civilian,SwapID
+Pegasus Knight (A),CantoPlusID
+Dracoknight (SA),CantoPlusID
+Queen,SwapID
+Prince,SwapID
+Queen,SwapID
+(empty),0x0
+Fallen Prince,0x0
+Tent,0x0
+Pontifex,0x0
+Dead Peer,0x0
+Freelancer,ShoveID
+Freelancer (F),ShoveID
+Champion,ShoveID
+Champion (F),ShoveID
 0,0x0
 0,0x0
 0,0x0

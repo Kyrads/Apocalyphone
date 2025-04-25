@@ -6,11 +6,11 @@ BYTE 00 00
 ALIGN 4
 
 EirikaLordSkillList:
+BYTE 225 CharismaID
 BYTE 00 00
 ALIGN 4
 
 EphraimGreatLordSkillList:
-BYTE 1 SupplyID
 BYTE 00 00
 ALIGN 4
 
@@ -27,10 +27,12 @@ BYTE 00 00
 ALIGN 4
 
 KnightSkillList:
+BYTE 225 PersonalityID
 BYTE 00 00
 ALIGN 4
 
 GeneralSkillList:
+BYTE 225 PersonalityID
 BYTE 00 00
 ALIGN 4
 
@@ -69,6 +71,10 @@ SniperSkillList:
 BYTE 00 00
 ALIGN 4
 
+HorsemanSkillList:
+BYTE 00 00
+ALIGN 4
+
 RangerSkillList:
 BYTE 00 00
 ALIGN 4
@@ -82,7 +88,6 @@ BYTE 00 00
 ALIGN 4
 
 WyvernKnightSkillList:
-BYTE 1 LunaID
 BYTE 00 00
 ALIGN 4
 
@@ -95,7 +100,6 @@ BYTE 00 00
 ALIGN 4
 
 MageKnightSkillList:
-BYTE 1 CantoPlusID
 BYTE 00 00
 ALIGN 4
 
@@ -108,11 +112,11 @@ BYTE 00 00
 ALIGN 4
 
 DruidSkillList:
-BYTE 1 MaleficAuraID
 BYTE 00 00
 ALIGN 4
 
 SummonerSkillList:
+BYTE 225 SummonID
 BYTE 00 00
 ALIGN 4
 
@@ -122,11 +126,11 @@ BYTE 00 00
 ALIGN 4
 
 GreatKnightSkillList:
-BYTE 1 TrampleID
+BYTE 225 PersonalityID
 BYTE 00 00
 ALIGN 4
 
-ManaketeFSkillList:
+ManaketeSkillList:
 BYTE 00 00
 ALIGN 4
 
@@ -172,7 +176,6 @@ BYTE 00 00
 ALIGN 4
 
 TroubadourSkillList:
-BYTE 255 CantoPlusID
 BYTE 00 00
 ALIGN 4
 
@@ -212,10 +215,18 @@ SuperRecruitSkillList:
 BYTE 00 00
 ALIGN 4
 
-ManaketeMSkillList:
+ManaketeChildSkillList:
 BYTE 00 00
 ALIGN 4
 
 DemonKingSkillList:
+BYTE 00 00
+ALIGN 4
+
+FreelancerSkillList:
+BYTE 00 00
+ALIGN 4
+
+ChampionSkillList:
 BYTE 00 00
 ALIGN 4
