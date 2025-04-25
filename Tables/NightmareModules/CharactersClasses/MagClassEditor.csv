@@ -1,11 +1,11 @@
 INLINE MagClassTable,Base Magic,Magic Growth,Magic Cap,Magic Promotion Bonus
 None,0,0,20,0
-Cavalier (A),0,15,0,0
+Cavalier (A),0,15,15,0
 Survivor,0,15,15,0
 Paladin (SA),1,15,25,1
 Vagabond,1,15,25,1
-Cavalier (L),0,15,0,0
-Cavalier (S),0,15,0,0
+Cavalier (L),0,15,15,0
+Cavalier (S),0,15,15,0
 Paladin (SL),1,15,25,1
 Paladin (LA),1,15,25,1
 Knight (L),0,5,15,0

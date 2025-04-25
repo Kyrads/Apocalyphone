@@ -1,10 +1,10 @@
 ALIGN 4
-LordLanceStand:
-#incbin "DMP/LordLanceStand(Kyrads).dmp"
+SurvivorSwordStand:
+#incbin "DMP/SurvivorSwordStand(Teraspark).dmp"
 
 ALIGN 4
-LordLanceWalk:
-#incbin "DMP/LordLanceWalk(Kyrads).dmp"
+SurvivorSwordWalk:
+#incbin "DMP/SurvivorSwordWalk(Teraspark).dmp"
 
 ALIGN 4
 KnightLanceStand:
@@ -13,6 +13,30 @@ KnightLanceStand:
 ALIGN 4
 KnightLanceWalk:
 #incbin "DMP/KnightLanceWalk(Salvaged).dmp"
+
+ALIGN 4
+KnightSwordStand:
+#incbin "DMP/KnightSwordStand(Salvaged).dmp"
+
+ALIGN 4
+KnightSwordWalk:
+#incbin "DMP/KnightSwordWalk(Salvaged).dmp"
+
+ALIGN 4
+KnightAxeStand:
+#incbin "DMP/KnightAxeStand(Salvaged).dmp"
+
+ALIGN 4
+KnightAxeWalk:
+#incbin "DMP/KnightAxeWalk(Salvaged).dmp"
+
+ALIGN 4
+KnightBowStand:
+#incbin "DMP/KnightBowStand(Salvaged).dmp"
+
+ALIGN 4
+KnightBowWalk:
+#incbin "DMP/KnightBowWalk(Salvaged).dmp"
 
 ALIGN 4
 FighterFStand:
