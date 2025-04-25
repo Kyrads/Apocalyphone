@@ -1,6 +1,6 @@
 INLINE NewMovingMapSpriteTable,Animation pointer,Another pointer
 Cavalier (A),0x81c5fe4,0x81c3d7c
-Survivor,IsPointer|SurvivorSwordWalk,0x81c46cc
+Survivor,IsPointer|SurvivorWalk,0x81c46cc
 Paladin (SA),0x81c4824,0x81c52b4
 Vagabond,0x81c5414,0x81c5e84
 Cavalier (L),0x81c5fe4,0x81c692c
@@ -53,7 +53,7 @@ Rogue,0x81ded90,0x81df548
 Gorgon Egg,0x81df6a0,0x81dfacc
 Great Knight,0x81dfc24,0x81e058c
 Knight (B),IsPointer|KnightBowWalk,0x81e058c
-Pegasus Knight (S),0x81e06e4,0x81e0e40
+Pegasus Knight (S),IsPointer|PegKnightSwordWalk,0x81e0e40
 Journeyman (3),0x81e0f98,0x81e173c
 Pupil (3),0x81e189c,0x81e2088
 Wyvern Rider (A),0x81e06e4,0x81e0e40
@@ -112,7 +112,7 @@ Civilian (F),0x82004a0,0x8200afc
 Civilian,0x8200c54,0x8201338
 Civilian (F),0x8201490,0x8201b84
 Civilian,0x8200c54,0x8201338
-Pegasus Knight (A),0x8201490,0x8201b84
+Pegasus Knight (A),PegKnightAxeWalk,0x8201b84
 Dracoknight (SA),0x8201cdc,0x8202558
 Queen,0x82026b0,0x8202c04
 Prince,0x8202d5c,0x8203368

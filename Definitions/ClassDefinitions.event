@@ -32,9 +32,9 @@
 #define Thief_F 0x0E
 
 //Pegasi will have character animations for Males
-#define PegasusKnight_S 0x72
+#define PegasusKnight_S 0x37
 #define PegasusKnight_L 0x48 //PegasusKnight Def
-#define PegasusKnight_A 0x37
+#define PegasusKnight_A 0x72
 #define Falcoknight FalcoKnight
 #define Falcoknight_SL 0x49 //Falcoknight Def
 #define Falcoknight_LA 0x38

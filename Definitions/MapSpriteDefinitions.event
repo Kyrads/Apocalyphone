@@ -1,7 +1,19 @@
 
-#define SurvivorSwordStandID 0x1
+#define CavAxeStandID 0x0
+
+#define SurvivorStandID 0x1
+
+//#define PaladinSAStandID 0x2
+
+#define VagabondStandID 0x3
 
 #define KnightLanceStandID 0x6
+
+#define ThiefFStandID 0x9
+
+#define WyvernRiderSwordStandID 0x1A
+
+//#define DracoknightLAStandID 0x1C
 
 #define KnightSwordStandID 0x41
 
@@ -10,3 +22,7 @@
 #define KnightBowStandID 0x6A
 
 #define FighterFStandID 0x69
+
+#define PegKnightSwordStandID 0x6B
+
+#define PegKnightAxeStandID 0x6C

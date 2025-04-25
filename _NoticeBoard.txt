@@ -1,13 +1,13 @@
 This text file is purely for documenting purposes
 
 Immediate To-Do's
+- Fix Major Bugs
 - Autolevel Code
+- Sort out Manaketes
 - Tables
 - Map Sprites
 
-
 Major Bugs:
-- Seizing causes major stat wonk (I cant seem to reproduce this anymore?)
 
 Minor Bugs:
 - Graphical bug on mend use description. Probably unintended to use narrowfont here.

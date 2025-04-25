@@ -1,10 +1,10 @@
 ALIGN 4
-SurvivorSwordStand:
-#incbin "DMP/SurvivorSwordStand(Teraspark).dmp"
+SurvivorStand:
+#incbin "DMP/SurvivorStand(Teraspark).dmp"
 
 ALIGN 4
-SurvivorSwordWalk:
-#incbin "DMP/SurvivorSwordWalk(Teraspark).dmp"
+SurvivorWalk:
+#incbin "DMP/SurvivorWalk(Teraspark).dmp"
 
 ALIGN 4
 KnightLanceStand:
@@ -37,6 +37,22 @@ KnightBowStand:
 ALIGN 4
 KnightBowWalk:
 #incbin "DMP/KnightBowWalk(Salvaged).dmp"
+
+ALIGN 4
+PegKnightSwordStand:
+#incbin "DMP/PegKnightSwordStand(Sephie,Cornontherob).dmp"
+
+ALIGN 4
+PegKnightSwordWalk:
+#incbin "DMP/PegKnightSwordWalk(Sephie,Cornontherob).dmp"
+
+ALIGN 4
+PegKnightAxeStand:
+#incbin "DMP/PegKnightAxeStand(Flasuban).dmp"
+
+ALIGN 4
+PegKnightAxeWalk:
+#incbin "DMP/PegKnightAxeWalk(Flasuban).dmp"
 
 ALIGN 4
 FighterFStand:
