@@ -6,7 +6,7 @@ BYTE 00 00
 ALIGN 4
 
 EirikaLordSkillList:
-BYTE 225 CharismaID
+BYTE 255 CharismaID
 BYTE 00 00
 ALIGN 4
 
@@ -27,12 +27,12 @@ BYTE 00 00
 ALIGN 4
 
 KnightSkillList:
-BYTE 225 PersonalityID
+BYTE 255 PersonalityID
 BYTE 00 00
 ALIGN 4
 
 GeneralSkillList:
-BYTE 225 PersonalityID
+BYTE 255 PersonalityID
 BYTE 00 00
 ALIGN 4
 
@@ -116,7 +116,7 @@ BYTE 00 00
 ALIGN 4
 
 SummonerSkillList:
-BYTE 225 SummonID
+BYTE 255 SummonID
 BYTE 00 00
 ALIGN 4
 
@@ -126,7 +126,7 @@ BYTE 00 00
 ALIGN 4
 
 GreatKnightSkillList:
-BYTE 225 PersonalityID
+BYTE 255 PersonalityID
 BYTE 00 00
 ALIGN 4
 
