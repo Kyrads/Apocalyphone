@@ -1,6 +1,12 @@
 
+#define SurvivorSwordStandID 0x1
+
 #define KnightLanceStandID 0x6
 
-#define LordLanceStandID 0x1
+#define KnightSwordStandID 0x41
+
+#define KnightAxeStandID 0x67
+
+#define KnightBowStandID 0x6A
 
 #define FighterFStandID 0x69
