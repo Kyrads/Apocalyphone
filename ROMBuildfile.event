@@ -7,6 +7,8 @@
 
     #include "repointedTextTable.event"
 
+    #include "repointedTables.event"
+
     //Text first for Text ID definitions
     #include "Text/InstallTextData.event"
     MESSAGE Used text space ends at currentOffset

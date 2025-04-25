@@ -1,5 +1,4 @@
-0x9a2df8,Animation pointer,Another pointer
-None,0x0,0x0
+INLINE NewMovingMapSpriteTable,Animation pointer,Another pointer
 Cavalier (A),0x81c5fe4,0x81c3d7c
 Survivor,IsPointer|SurvivorSwordWalk,0x81c46cc
 Paladin (SA),0x81c4824,0x81c52b4
@@ -11,7 +10,7 @@ Paladin (LA),0x81c6a84,0x81c7428
 Knight (L),IsPointer|KnightLanceWalk,0x81c7e74
 Knight (S),IsPointer|KnightSwordWalk,0x81c7e74
 General,0x81c7fcc,0x81c8a80
-Knight (A),IsPointer|KnightAxeWalk,0x81c8a80
+Knight (A),IsPointer|KnightAxeWalk,0x81c7e74
 Thief,0x81c8be0,0x81c945c
 Thief (F),0x81c95b4,0x81ca124
 Mercenary,0x81ca27c,0x81caa20
