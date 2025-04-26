@@ -7,13 +7,19 @@
 
 #define VagabondStandID 0x3
 
+#define CavLanceStandID 0x4
+
 #define KnightLanceStandID 0x6
 
 #define ThiefFStandID 0x9
 
+#define MercenaryFStandID 0xB
+
 #define WyvernRiderSwordStandID 0x1A
 
 //#define DracoknightLAStandID 0x1C
+
+#define SoldierStandID 0x3F
 
 #define KnightSwordStandID 0x41
 
@@ -26,3 +32,21 @@
 #define PegKnightSwordStandID 0x6B
 
 #define PegKnightAxeStandID 0x6C
+
+#define CavSwordStandID 0x6D
+
+#define WyvernRiderAxeStandID 0x6E
+
+#define ShamanFStandID 0x6F
+
+#define DruidFStandID 0x70
+
+#define LancerStandID 0x71
+
+#define ChampionStandID 0x72
+
+#define ChampionFStandID 0x73
+
+#define HalberdierStandID 0x74
+
+#define BonewalkerLanceStandID 0x75

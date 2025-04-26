@@ -7,6 +7,30 @@ SurvivorWalk:
 #incbin "DMP/SurvivorWalk(Teraspark).dmp"
 
 ALIGN 4
+CavLanceStand:
+#incbin "DMP/CavLanceStand(Salvaged).dmp"
+
+ALIGN 4
+CavLanceWalk:
+#incbin "DMP/CavLanceWalk(Salvaged).dmp"
+
+ALIGN 4
+CavSwordStand:
+#incbin "DMP/CavSwordStand(Salvaged).dmp"
+
+ALIGN 4
+CavSwordWalk:
+#incbin "DMP/CavSwordWalk(Salvaged).dmp"
+
+ALIGN 4
+CavAxeStand:
+#incbin "DMP/CavAxeStand(Salvaged).dmp"
+
+ALIGN 4
+CavAxeWalk:
+#incbin "DMP/CavAxeWalk(Salvaged).dmp"
+
+ALIGN 4
 KnightLanceStand:
 #incbin "DMP/KnightLanceStand(Salvaged).dmp"
 
@@ -55,9 +79,65 @@ PegKnightAxeWalk:
 #incbin "DMP/PegKnightAxeWalk(Flasuban).dmp"
 
 ALIGN 4
+WyvernRiderAxeStand:
+#incbin "DMP/WyvernRiderAxeStand(Unknown).dmp"
+
+ALIGN 4
+WyvernRiderAxeWalk:
+#incbin "DMP/WyvernRiderAxeWalk(Unknown).dmp"
+
+ALIGN 4
 FighterFStand:
 #incbin "DMP/FighterFStand(Alusq).dmp"
 
 ALIGN 4
 FighterFWalk:
 #incbin "DMP/FighterFWalk(Alusq).dmp"
+
+ALIGN 4
+MercenaryFStand:
+#incbin "DMP/MercenaryFStand(Agro).dmp"
+
+ALIGN 4
+MercenaryFWalk:
+#incbin "DMP/MercenaryFWalk(Agro).dmp"
+
+ALIGN 4
+ShamanFStand:
+#incbin "DMP/ShamanFStand.dmp"
+
+ALIGN 4
+ShamanFWalk:
+#incbin "DMP/ShamanFWalk.dmp"
+
+ALIGN 4
+SoldierStand:
+#incbin "DMP/SoldierStand(Rexacuse,Peerless,Alusq).dmp"
+
+ALIGN 4
+SoldierWalk:
+#incbin "DMP/SoldierWalk(Rexacuse,Peerless,Alusq).dmp"
+
+ALIGN 4
+ThiefFStand:
+#incbin "DMP/ThiefFStand.dmp"
+
+ALIGN 4
+ThiefFWalk:
+#incbin "DMP/ThiefFWalk.dmp"
+
+ALIGN 4
+LancerStand:
+#incbin "DMP/LancerStand(Alusq).dmp"
+
+ALIGN 4
+LancerWalk:
+#incbin "DMP/LancerWalk(Alusq).dmp"
+
+ALIGN 4
+BonewalkerLanceStand:
+#incbin "DMP/BonewalkerLanceStand(Epicer).dmp"
+
+ALIGN 4
+BonewalkerLanceWalk:
+#incbin "DMP/BonewalkerLanceWalk(Epicer).dmp"

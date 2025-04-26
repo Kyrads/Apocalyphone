@@ -127,26 +127,26 @@ Classes Implemented:
 Key: M = With Map Sprites, G = Both Genders, A = With Assets
 
 Survivor M
-Vagabond
-Mercenary G
-Myrmidon G
-Soldier
-Freelancer G
+Vagabond 
+Mercenary G M
+Myrmidon G M
+Soldier M
+Freelancer G M
 Champion G
-Fighter
-Brigand
-Pirate
-Archer G
+Fighter M
+Brigand M
+Pirate M
+Archer G M
 Horseman
-Cavalier SLA
+Cavalier SLA M
 Knight SLAB M
-Mage G
-Shaman G
-Monk
-Priest G
+Mage G M
+Shaman G M
+Monk M
+Priest G M
 Peg SLA M
-Wyvern SLA
-Thief
+Wyvern SLA -MM
+Thief G M
 
 Revenant M
-Bonewalker SLB
+Bonewalker SLB M

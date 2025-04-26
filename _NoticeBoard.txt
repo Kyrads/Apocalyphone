@@ -1,11 +1,9 @@
 This text file is purely for documenting purposes
 
 Immediate To-Do's
-- Fix Major Bugs
 - Autolevel Code
 - Sort out Manaketes
-- Tables
-- Map Sprites
+- Item Table
 
 Major Bugs:
 
