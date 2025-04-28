@@ -120,6 +120,11 @@
 #define MautheDoog Mauthedoog
 #define Doog Mauthedoog
 
+
+#define FlierTerrainAvo 0x880c53c
+
+#define FlierTerrainDef 0x880c57d
+
 //Personal Ref so i dont forget
 /*#define Recruit 0x47
 #define Journeyman 0x3D
@@ -153,3 +158,11 @@ Thief G M
 
 Revenant M
 Bonewalker SLB M
+//No Magic
+Mogall M
+Gargoyle M
+Bael M
+Tarvos M
+Gorgon M
+
+

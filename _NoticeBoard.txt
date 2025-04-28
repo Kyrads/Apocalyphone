@@ -3,8 +3,6 @@ This text file is purely for documenting purposes
 Immediate To-Do's
 - Autolevel Code
 - Sort out Manaketes
-- Monster Classes
-- Terrain Stuff
 - Item Table
 
 Major Bugs:
