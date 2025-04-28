@@ -83,6 +83,7 @@
 //Monster Weapons
 #define RipperTalon 0xCF //unimplemented
 #define PiercingTalon 0xD0 //unimplemented
+#define FieryFang FireFang
 #define RabidFang 0xD1 //unimplemented
 #define GazingEye 0xD2 //unimplemented
 #define GigantAxe 0xD3 //unimplemented

@@ -7,6 +7,9 @@
 //Classes 133/255
 //Classes that need character anims for gender: Cavalier/Paladin (F), Pegasus/Falco (M)
 //Summoner (F), Valkyrie (M), Horseman/Ranger (F)
+//Anything after 0x7F will need the table expanded
+//ID's up to 0x84 are used
+//73-76 are left free if anyone wants stuff like queen for cutscene NPCs since the table is being expanded anyway
 
 //Player Classes
 
@@ -46,11 +49,11 @@
 #define WyvernRider_A 0x3A
 #define Dracoknight_SL 0x21
 #define Dracoknight_LA 0x22
-#define Dracoknight_SA 0x73
+#define Dracoknight_SA 0x85
 #define Dracoknight Dracoknight_SL
 #define WyvernKnight_S 0x24
 #define WyvernKnight_L 0x23 //WyvernKnight Def
-#define WyvernKnight_A 0x74 //unimplemented
+#define WyvernKnight_A 0x86 //unimplemented
 
 #undef Manakete
 #define Manakete 0x3B //unimplemented
@@ -60,8 +63,8 @@
 
 #define Horseman 0x1E
 
-#define Fighter_F 0x75 //unimplemented*
-#define Warrior_F 0x76 //unimplemented*
+#define Fighter_F 0x87 //unimplemented*
+#define Warrior_F 0x88 //unimplemented*
 
 #define Brigand_F 0x7A //unimplemented
 #define Pirate_F 0x50 //unimplemented
@@ -78,8 +81,8 @@
 
 #define Troubadour_M 0x71 //unimplemented
 #define Monk_F 0x82 //unimplemented
-//#define Valkyrie_M 0x83 //unimplemented
-#define Rogue_F 0x83 //unimplemented
+#define Valkyrie_M 0x83 //unimplemented
+#define Rogue_F 0x84 //unimplemented
 
 //Nicknames/Altnames
 #define Cav_S Cavalier_S
