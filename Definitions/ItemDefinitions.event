@@ -53,8 +53,9 @@
 #define LegendaryBow 0x94 //Legendary ID
 
 //Anima //all anima defined
-#define Shaver 0xBB
-#define Static 0xC3 //unimplemented
+#define Wind 0xCC
+#define Shaver 0xA7
+#define Static 0xCD //unimplemented
 #define Cleanse 0xC4
 #define Combustion 0x3D //unimplemented
 #define Dyrnwyn 0x3E //Legendary ID
@@ -93,7 +94,7 @@
 //Misc
 #define IronDagger 0xC2
 #define VeninDagger 0xE1
-#define SteelDagger 0xCC
+#define SteelDagger 0xC3
 #define MainGauche 0xD4 //unimplemented
 #define Wingclipper 0xE2 //unimplemented
 #define Silencer 0xD5 //unimplemented
@@ -107,7 +108,7 @@
 #define SecretSeal 0x8A //unimplemented
 #define Rations 0xA2
 #define EnergyHerbs 0xE3
-#define GreenGem 0xA7
+#define GreenGem 0xBB
 #define TseScroll MetissTome
 #define Might 0x7D //unimplemented
 #define Grace 0x7E //unimplemented
@@ -122,6 +123,33 @@
 
 /*Items Implemented
 Key: A = W Assets, S = Spell Anims, T = Tested In-Game, U = Used In-Game
+
+Iron Sword - AST
+Slim Sword - AST
+Iron Blade - AST
+Iron Lance - AST
+Slim Lance - AST
+Iron Halberd - AST
+Iron Axe - AST
+Slim Axe - AST
+Iron Poleaxe - AST
+Iron Bow - AST
+Slim Bow - AST
+Iron Warbow - AST
+Longbow - AST
+Wind - AT
+Fire - AST
+Thunder - AST
+Lightning - AST
+Shine - AST
+Flux - AST
+Dusk - AST
+Luna - AST
+
+
+
+
+Old List:
 Iron Sword - AS
 Slim Sword - AS
 Iron Blade - AS
