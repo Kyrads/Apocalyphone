@@ -142,3 +142,5 @@ Spellblade,IsPointer|SpellbladeWalk,0x81d9b58
 Spellblade (F),IsPointer|SpellbladeFWalk,0x81da694
 Halberdier,IsPointer|HalberdierWalk,0x81edbc4
 Rogue,IsPointer|RogueFWalk,0x81df548
+Dark Knight,IsPointer|SoldierWalk,0x81edbc4
+Pirate (F),IsPointer|SoldierWalk,0x81edbc4

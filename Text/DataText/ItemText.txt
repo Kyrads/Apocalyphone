@@ -23,7 +23,7 @@ Armourslayer[X]
 3x effective against monsters.[X]
 
 ## SwiftSwordName
-SwiftSword[X]
+Swift Sword[X]
 
 ## SwiftDesc
 Follow up attacks occur immediately.[X]

@@ -12,10 +12,10 @@
 #define SwiftSword 0x0A
 #define RubySword 0xDA
 #define Claymore Zanbato
-#define Zweihander 0x85 //Legendary ID Sieg
+#define Zweihander 0x91 //Legendary ID
 #define FlameBlade 0xbf
 #define LunarBlade 0xE3
-#define LegendarySword 0x91 //Legendary ID
+#define LegendarySword 0x85 //Legendary ID Sieg
 
 //Lances //all lances defined
 #define IronHalberd 0x25

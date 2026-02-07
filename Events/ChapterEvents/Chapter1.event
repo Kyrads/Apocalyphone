@@ -281,24 +281,24 @@ BeginningSceneTest:
 
 EnemyUnitsTestA:
 	UNIT ONeill General ONeill Level(7,Enemy,True) [0,11] 0x0 [RottenClaw,IronDagger] NoAI
-	UNIT TestEnemy Mercenary ONeill Level(1,Enemy,True) [1,11] 0x0 [IronBlade] NoAI
-	UNIT TestEnemy Mercenary_F ONeill Level(1,Enemy,True) [2,11] 0x0 [IronSword] NoAI
-	UNIT TestEnemy Myrmidon ONeill Level(1,Enemy,True) [3,11] 0x0 [IronSword] NoAI
+	UNIT TestEnemy Mercenary ONeill Level(1,Enemy,True) [1,11] 0x0 [IronSword,SwiftSword,Wyrmslayer,WindSword] NoAI
+	UNIT TestEnemy Mercenary_F ONeill Level(1,Enemy,True) [2,11] 0x0 [IronSword,Zweihander,Shamshir,BraveSword] NoAI
+	UNIT TestEnemy Myrmidon ONeill Level(1,Enemy,True) [3,11] 0x0 [IronSword,FlameBlade,Runesword] NoAI
 	UNIT TestEnemy Myrmidon_F ONeill Level(1,Enemy,True) [4,11] 0x0 [IronSword] NoAI
 	UNIT TestEnemy Thief ONeill Level(1,Enemy,True) [5,11] 0x0 [IronSword] NoAI
 	UNIT TestEnemy Thief_F ONeill Level(1,Enemy,True) [6,11] 0x0 [IronSword] NoAI
-	UNIT TestEnemy Soldier ONeill Level(1,Enemy,True) [7,11] 0x0 [IronLance] NoAI
-	UNIT TestEnemy Soldier_F ONeill Level(1,Enemy,True) [8,11] 0x0 [IronLance] NoAI
-	UNIT TestEnemy Freelancer ONeill Level(1,Enemy,True) [9,11] 0x0 [IronLance] NoAI
+	UNIT TestEnemy Soldier ONeill Level(1,Enemy,True) [7,11] 0x0 [IronLance,SwiftLance,ShortSpear,DragonSpear] NoAI
+	UNIT TestEnemy Soldier_F ONeill Level(1,Enemy,True) [8,11] 0x0 [IronLance,Pike,Glaive,BraveLance] NoAI
+	UNIT TestEnemy Freelancer ONeill Level(1,Enemy,True) [9,11] 0x0 [IronLance,Spear,Partisan] NoAI
 	UNIT TestEnemy Freelancer_F ONeill Level(1,Enemy,True) [10,11] 0x0 [IronLance] NoAI
-	UNIT TestEnemy Fighter ONeill Level(1,Enemy,True) [11,11] 0x0 [IronAxe] NoAI
+	UNIT TestEnemy Fighter ONeill Level(1,Enemy,True) [11,11] 0x0 [IronAxe,SwiftAxe,ShortAxe,DragonAxe] NoAI
 	UNIT TestEnemy Fighter_F ONeill Level(1,Enemy,True) [12,11] 0x0 [IronAxe] NoAI
-	UNIT TestEnemy Brigand ONeill Level(1,Enemy,True) [13,11] 0x0 [IronAxe] NoAI
+	UNIT TestEnemy Brigand ONeill Level(1,Enemy,True) [13,11] 0x0 [IronAxe,BraveAxe,Tomahawk,Swordslayer] NoAI
 	UNIT TestEnemy Brigand_F ONeill Level(1,Enemy,True) [14,11] 0x0 [IronAxe] NoAI
 	UNIT TestEnemy Pirate ONeill Level(1,Enemy,True) [15,11] 0x0 [IronAxe] NoAI
 	UNIT TestEnemy Pirate_F ONeill Level(1,Enemy,True) [16,11] 0x0 [IronAxe] NoAI
-	UNIT TestEnemy Archer ONeill Level(1,Enemy,True) [0,13] 0x0 [IronBow] NoAI
-	UNIT TestEnemy Archer_F ONeill Level(1,Enemy,True) [1,13] 0x0 [IronBow] NoAI
+	UNIT TestEnemy Archer ONeill Level(1,Enemy,True) [0,13] 0x0 [IronBow,SwiftBow,TrickBow,HeavyBow] NoAI
+	UNIT TestEnemy Archer_F ONeill Level(1,Enemy,True) [1,13] 0x0 [IronBow,BraveBow,Greatbow,GaleBow] NoAI
 	UNIT TestEnemy Scout ONeill Level(1,Enemy,True) [2,13] 0x0 [IronBow] NoAI
 	UNIT TestEnemy Cav_S ONeill Level(1,Enemy,True) [3,13] 0x0 [IronSword] NoAI
 	UNIT TestEnemy Cav_L ONeill Level(1,Enemy,True) [4,13] 0x0 [IronLance] NoAI

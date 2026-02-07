@@ -121,9 +121,11 @@
 	#define VantagePlusID 29
 
 	//Sweeping Blow: Deals ATK / 2 - DEF to adjacent enemies after combat.
+	//By LegendOfLoog
 	#define SweepingBlowID 30
 
 	//Break: Allows a unit to Break by default, not using WTA.
+	//By LegendOfLoog
 	#define BreakSkillID 31
 
 //Equipment Skills
