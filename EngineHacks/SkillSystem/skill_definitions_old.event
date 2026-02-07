@@ -895,10 +895,6 @@
 //By circleseverywhere
 #define DazzleID 255
 
-//Desperation: If HP < 50%, double attacks occur immediately.
-//By ??? (Initial Commit)
-#define DesperationID 255
-
 //Assassinate: When initiating battle at 1 range: +2 Damage, double attacks occur before counter.
 //By Zeta
 #define AssassinateID 255
@@ -1062,9 +1058,7 @@
 //By Leonarth
 #define CatchEmAllID 255
 
-//Vantage+: User always attacks first, even if attacked. Negates crits.
-//By SD9k
-#define VantagePlusID 255
+
 
 //Nihil: Cancels the opponent's skills in combat.
 //Author Unknown (Initial Commit)
