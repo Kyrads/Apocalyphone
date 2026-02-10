@@ -1,3 +1,5 @@
 #include "ExternalTables\MovementCostTable.event"
 
 #include "ExternalTables\TerrainStatTable.event"
+
+#include "ExternalTables\ItemStatBoosts.event"

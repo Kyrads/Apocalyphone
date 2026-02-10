@@ -120,6 +120,8 @@
 #define Ire 0x7F
 #define Litany 0x80
 //#define TonicSlot 0x9A
+#define Speedwing Speedwings
+#define Swiftsole Boots
 
 //Equippables
 #define IronRune 0x7C

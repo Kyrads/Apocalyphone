@@ -623,13 +623,47 @@ An idol that negates[N]
 anti-monster effects.[X]
 
 ## SpiritDustName
-Spirit Dust[X]
+Mana Drops[X]
 
 ## SpiritDustDesc
- [X]
+Increases magic by 2 points.[N]
+Vanishes after use.[X]
 
 ## SpiritDustUseText
- [X]
+Raises magic.[X]
+
+## SpiritDustBoosterText
+Magic Increased.[X]
+
+## EnergyRingDescNew
+Increases strength by 2 points.[N]
+Vanishes after use.[X]
+
+## EnergyRingUseTextNew
+Raises strength.[X]
+
+## AngelicRobeDescNew
+Increases HP by a max of[N]
+4 points. Vanishes after use.[X]
+
+## SecretBookDescNew
+Increases skill by 3 points.[N]
+Vanishes after use.[X]
+
+## TalismanDescNew
+Increases resistance by[N]
+3 points. Vanishes after use.[X]
+
+## GoddessIconDescNew
+Increases luck by[N]
+3 points. Vanishes after use.[X]
+
+## SwiftsoleName
+Swiftsole[X]
+
+## SwiftsoleDescNew
+Increases movement by[N]
+1 point. Vanishes after use.[X]
 
 ## BroadswordName
 Broadsword[X]
