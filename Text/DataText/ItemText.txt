@@ -639,3 +639,24 @@ A cursed, un-blinking eye.[X]
 
 ## IronShieldName
 Iron Shield[X]
+
+## IronShieldDesc
++2 Def.[X]
+
+## SteelShieldName
+Steel Shield[X]
+
+## SteelShieldDesc
++4 Def.[X]
+
+## SilverShieldName
+Silver Shield[X]
+
+## SilverShieldDesc
++8 Def.[X]
+
+## PrayerRingName
+Prayer Ring[X]
+
+## PrayerRingDesc
+Regenerate x% HP every turn.[X]

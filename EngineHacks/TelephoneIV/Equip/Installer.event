@@ -6,12 +6,17 @@ ALIGN 4
 EquipmentList:
 BYTE IronRune
 BYTE IronShield
+BYTE SteelShield
+BYTE SilverShield
+BYTE PrayerRing
 BYTE 0x00 //terminator
 
 // Defense equipment loses durability on each hit taken
 ALIGN 4
 DefenseEquipmentList:
 BYTE IronShield
+BYTE SteelShield
+BYTE SilverShield
 BYTE 0x00 // terminator
 
 // Offense equipment loses durability on each attack made

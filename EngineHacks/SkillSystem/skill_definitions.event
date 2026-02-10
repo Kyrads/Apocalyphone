@@ -3,7 +3,7 @@
 //Skills are categorized broadly by movement, class, personal & weapon.
 //When defining skills here, if they are default skillsys skills make sure to comment them out in skill_definitions_old.event
 
-//Skills Used: 1-31
+//Skills Used: 1-32
 
 #include "skill_definitions_old.event"
 
@@ -81,25 +81,25 @@
 
 //Personal Skills
 
-//Resolve: When HP < 50%, gain 1.5x Str, Skl, & Spd.
-//By Sme
-#define ResolveID 18
+	//Resolve: When HP < 50%, gain 1.5x Str, Skl, & Spd.
+	//By Sme
+	#define ResolveID 18
 
-//Cover Shooter: Grants +15 crit and +4 atk when on terrain.
-//By Pikmin1211
-#define CoverShooterID 21
+	//Cover Shooter: Grants +15 crit and +4 atk when on terrain.
+	//By Pikmin1211
+	#define CoverShooterID 21
 
-//Grappler: Suffers no stat penalties when attempting to capture.
-//By Pikmin1211
-#define GrapplerID 22
+	//Grappler: Suffers no stat penalties when attempting to capture.
+	//By Pikmin1211
+	#define GrapplerID 22
 
-//Follow Up: When attacking a foe who is broken, deal 50% extra damage.
-//By Pikmin1211
-#define FollowUpID 23
+	//Follow Up: When attacking a foe who is broken, deal 50% extra damage.
+	//By Pikmin1211
+	#define FollowUpID 23
 
-//Scavenger: Unit has a Lck/2% to find an item whenever using the wait command.
-//By Pikmin1211
-#define ScavengerID 24
+	//Scavenger: Unit has a Lck/2% to find an item whenever using the wait command.
+	//By Pikmin1211
+	#define ScavengerID 24
 
 //Weapon Skills
 
@@ -133,6 +133,12 @@
 	//Fortune: This unit cannot be crit.
 	//By Sme
 	#define FortuneID 25
+
+	//Renewal: Restore 30% of max HP at the start of each turn.
+	//Nerf this to like 15% this is too good tbh
+	//Author Unknown (Initial Commit)
+	#define RenewalID 32
+
 
 
 
