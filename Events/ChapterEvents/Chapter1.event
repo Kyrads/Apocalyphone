@@ -272,7 +272,7 @@ EndingScene:
 
 BeginningSceneTest:
 	ENUT 0xB
-	LOAD1 0x1 EnemyUnitsTestA
+	LOAD1 0x1 EnemyUnitsTestD2
 	LOAD1 0x0 Units1Test
 	//GiveGold(99999)
 	//GoToPrepScreen2
@@ -443,8 +443,8 @@ EnemyUnitsTestD2:
 	UNIT TestEnemy Cyclops ONeill Level(5,Enemy,True) [12,11] 0x0 [IronAxe,IronPoleaxe,Rations] NoAI
 	UNIT TestEnemy Entombed ONeill Level(1,Enemy,True) [13,11] 0x0 [RottenClaw,FetidClaw] NoAI
 	UNIT TestEnemy Wight_SL ONeill Level(1,Enemy,True) [14,11] 0x0 [IronSword,SteelSword,SteelLance,SteelHalberd] NoAI
-	//UNIT TestEnemy Necrodragon ONeill Level(1,Enemy,True) [14,11] 0x0 [WretchedAir] NoAI
-	//UNIT TestEnemy ElderBael ONeill Level(1,Enemy,True) [0,13] 0x0 [SharpClaw] NoAI
+	UNIT TestEnemy Necrodragon ONeill Level(5,Enemy,True) [15,11] 0x0 [WretchedAir] NoAI
+	UNIT TestEnemy ElderBael ONeill Level(1,Enemy,True) [0,13] 0x0 [SharpClaw] NoAI
 	UNIT TestEnemy Valkyrie ONeill Level(1,Enemy,True) [1,13] 0x0 [Lightning,Restore,MemberCard,SilverCard] NoAI
 	UNIT
 

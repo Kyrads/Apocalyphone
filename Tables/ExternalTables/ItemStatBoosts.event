@@ -45,5 +45,10 @@ NewMovStatBonuses:
 StatBonus(0,0,0,0,0,0,0,0,0,1) 
 // StatBonus(HPB,StrB,MagB,SklB,SpdB,DefB,ResB,LckB,MovB,ConB)
 
+ALIGN 4
+NewWretchedAirStatBonuses:
+StatBonus(0,15,15,10,10,15,15,0,0,0)
+// StatBonus(HPB,StrB,MagB,SklB,SpdB,DefB,ResB,LckB,MovB,ConB)
+
 
 
