@@ -31,9 +31,9 @@
 //Allows speeding up of battle animations via the R button.
 	#include "FastBattleAnimation/Install.event"
 
-//Pikmin1211
-//Changes staves that use Mag/2 range to use Mag/3 range instead.
-	#include "MagBy3/Installer.event"
+//Ditto
+//Changes staves that use Mag/2 range to use (Mag/4)+3 range instead.
+	#include "MagBy4Plus3Range/MagBy4Plus3Range.event"
 
 //HyperGammaSpaces
 //Improves lag on enemy phase, particularly with skillsys and high enemy density.

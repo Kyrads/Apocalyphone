@@ -1,0 +1,9 @@
+#include DittoASMDefs.event
+
+PUSH
+ORG 0x18A1C
+jumpToHack(r1, GetMagBy4Plus3Range)
+POP
+
+ThumbFunc(GetMagBy4Plus3Range)
+#incbin "GetMagBy4Plus3Range.bin"
