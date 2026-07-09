@@ -22,7 +22,7 @@ ble UnderCap
 	strb r1, [r4, #0x19]
 UnderCap:
 
-ldr r3, =#0x08018254+1
+ldr r3, =#0x08018258+1
 bx r3
 
 .align 2
