@@ -181,6 +181,12 @@ MESSAGE ello guvnah
 //20 for unpromoted, 30 for promoted.
 	#include "PromotionBasedLuckCap/PromotionBasedLuckCap.event"
 
+//Ditto
+//Weather as a penalty to mov instead of a seperate mov cost table
+//-2 for fliers, -1 otherwise
+	ALIGN 4; WeatherMovPenalty:
+	#incbin "WeatherMovPenalty/WeatherMovPenalty.bin"
+
 //A whole bunch of edits by various people, see Edits.event for more info
 	#include "Edits.event"
 

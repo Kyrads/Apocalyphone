@@ -625,6 +625,12 @@ ORG 0x37B5C
 BYTE 0x13 //Hard (19 Autolevels)
 POP
 
+// No Rain or Snow move cost tables
+// Ditto
+PUSH
+ORG 0x18D5A
+SHORT 0xD014
+POP
 
 
 //  https://www.youtube.com/shorts/LfSZesGiOkg
