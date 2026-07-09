@@ -45,6 +45,7 @@ POIN BeginningSceneTest EndingScene
 
 TurnBasedEvents:
 //TurnEventPlayer(0,HintText,1) //Defunct
+TurnEventPlayer(0,TestPreps,2)
 TurnEventPlayer(0,WarningText,6)
 TurnEventPlayer(0,EnemyCharge,7)
 END_MAIN
@@ -278,6 +279,10 @@ BeginningSceneTest:
 	//GoToPrepScreen2
 	NoFade
 	ENDA
+	
+TestPreps:
+	GoToPrepScreen2
+	NoFade; ENDA
 
 EnemyUnitsTestA:
 	UNIT ONeill General ONeill Level(7,Enemy,True) [0,11] 0x0 [RottenClaw,IronDagger] NoAI

@@ -175,6 +175,11 @@ MESSAGE ello guvnah
 //Creates macros that let you set death/battle quotes within chapter events
 //Guide on using it here: https://feuniverse.us/t/fe8u-stans-asm-stuff/2376/21
 	#include "PerChapterBattleQuotes/PerChapterBattleQuotes.event"
+	
+//Ditto
+//Promotion Based Luck Cap
+//20 for unpromoted, 30 for promoted.
+	#include "PromotionBasedLuckCap/PromotionBasedLuckCap.event"
 
 //A whole bunch of edits by various people, see Edits.event for more info
 	#include "Edits.event"

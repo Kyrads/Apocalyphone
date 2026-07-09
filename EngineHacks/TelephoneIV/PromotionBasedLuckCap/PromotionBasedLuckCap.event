@@ -1,0 +1,39 @@
+#include DittoASMDefs.event
+
+{
+
+PUSH
+
+ORG 0x926FC
+jumpToHack(r2, UnitListMenuLuckCap)
+
+ORG 0x9C14C
+jumpToHack(r1, PrepItemUseStatBarsLuckCap)
+
+ORG 0x9C31C
+jumpToHack(r1, PrepItemUseStatValuesLuckCap)
+
+ORG 0x1824C
+jumpToHack(r0, UnitCheckStatCapsLuckCap)
+
+ORG 0x2C010
+jumpToHack(r1, BattleUnitCheckStatCapsLuckCap)
+
+POP
+
+ThumbFunc(UnitListMenuLuckCap)
+#incbin "UnitListMenuLuckCap.bin"
+
+ThumbFunc(PrepItemUseStatBarsLuckCap)
+#incbin "PrepItemUseStatBarsLuckCap.bin"
+
+ThumbFunc(PrepItemUseStatValuesLuckCap)
+#incbin "PrepItemUseStatValuesLuckCap.bin"
+
+ThumbFunc(UnitCheckStatCapsLuckCap)
+#incbin "UnitCheckStatCapsLuckCap.bin"
+
+ThumbFunc(BattleUnitCheckStatCapsLuckCap)
+#incbin "BattleUnitCheckStatCapsLuckCap.bin"
+
+}

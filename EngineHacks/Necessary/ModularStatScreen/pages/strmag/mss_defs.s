@@ -355,9 +355,20 @@
   blh     LuckGetter
   mov     r1, r8  
   mov     r3, #0x19
-  ldsb    r3, [r1, r3]     
-  str     r0, [sp]     
-  mov     r0, #0x1e  @cap is always 30
+  ldsb    r3, [r1, r3]
+  str     r0, [sp]
+  mov 	  r0, #30  
+  ldr	  r2, [r1]
+  ldr     r1, [r1, #4]
+  ldr	  r2, [r2, #0x28]
+  ldr	  r1, [r1, #0x28]
+  orr	  r2, r1
+  mov	  r1, #1
+  lsl	  r1, r1, #8
+  tst	  r2, r1
+  bne	  draw_luck_bar_at.promoted
+  mov	  r0, #20
+  draw_luck_bar_at.promoted:
   str     r0, [sp, #0x4]    
   mov     r0, #0x6   
   mov     r1, #(\bar_x-11)
