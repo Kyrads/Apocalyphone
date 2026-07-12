@@ -24,83 +24,159 @@
 #define ARM_jumpToARMHack(reg, ptr) "WORD ((14 << 28)|(01011001b << 20)|(15 << 16)|(reg << 12)) ((14 << 28)|(000100101111111111110001b << 4)|(reg)); POIN (ptr)"
 
 // Registers
-#undef r0
+#ifdef r0
+        #undef r0
+#endif
 #define r0 0
-#undef r1
+#ifdef r1
+        #undef r1
+#endif
 #define r1 1
-#undef r2
+#ifdef r2
+        #undef r2
+#endif
 #define r2 2
-#undef r3
+#ifdef r3
+        #undef r3
+#endif
 #define r3 3
-#undef r4
+#ifdef r4
+        #undef r4
+#endif
 #define r4 4
-#undef r5
+#ifdef r5
+        #undef r5
+#endif
 #define r5 5
-#undef r6
+#ifdef r6
+        #undef r6
+#endif
 #define r6 6
-#undef r7
+#ifdef r7
+        #undef r7
+#endif
 #define r7 7
-#undef r8
+#ifdef r8
+        #undef r8
+#endif
 #define r8 8
-#undef r9
+#ifdef r9
+        #undef r9
+#endif
 #define r9 9
-#undef r10
+#ifdef r10
+        #undef r10
+#endif
 #define r10 10
-#undef r11
-#define r11 11
-#undef r12
-#define r12 12
-#undef r13
-#define r13 13
-#undef r14
-#define r14 14
-#undef r15
-#define r15 15
-#undef sl
+#ifdef sl
+        #undef sl
+#endif
 #define sl r10
-#undef fp
+#ifdef r11
+        #undef r11
+#endif
+#define r11 11
+#ifdef fp
+        #undef fp
+#endif
 #define fp r11
-#undef ip
+#ifdef r12
+        #undef r12
+#endif
+#define r12 12
+#ifdef ip
+        #undef ip
+#endif
 #define ip r12
-#undef sp
+#ifdef r13
+        #undef r13
+#endif
+#define r13 13
+#ifdef sp
+        #undef sp
+#endif
 #define sp r13
-#undef lr
+#ifdef r14
+        #undef r14
+#endif
+#define r14 14
+#ifdef lr
+        #undef lr
+#endif
 #define lr r14
-#undef pc
+#ifdef r15
+        #undef r15
+#endif
+#define r15 15
+#ifdef pc
+        #undef pc
+#endif
 #define pc r15
 
 // Conditional codes
-#undef EQ
+#ifdef EQ
+        #undef EQ
+#endif
 #define EQ 0
-#undef NE
+#ifdef NE
+        #undef NE
+#endif
 #define NE 1
-#undef HS
+#ifdef HS
+        #undef HS
+#endif
 #define HS 2
-#undef LO
+#ifdef LO
+        #undef LO
+#endif
 #define LO 3
-#undef MI
+#ifdef MI
+        #undef MI
+#endif
 #define MI 4
-#undef PL
+#ifdef PL
+        #undef PL
+#endif
 #define PL 5
-#undef VS
+#ifdef VS
+        #undef VS
+#endif
 #define VS 6
-#undef VC
+#ifdef VC
+        #undef VC
+#endif
 #define VC 7
-#undef HI
+#ifdef HI
+        #undef HI
+#endif
 #define HI 8
-#undef LS
+#ifdef LS
+        #undef LS
+#endif
 #define LS 9
-#undef GE
+#ifdef GE
+        #undef GE
+#endif
 #define GE 10
-#undef LT
+#ifdef LT
+        #undef LT
+#endif
 #define LT 11
-#undef GT
+#ifdef GT
+        #undef GT
+#endif
 #define GT 12
-#undef LE
+#ifdef LE
+        #undef LE
+#endif
 #define LE 13
-#undef AL
+#ifdef AL
+        #undef AL
+#endif
 #define AL 14
-#undef NV
+#ifdef NV
+        #undef NV
+#endif
 #define NV 15
 
 #endif // DittoASMDefs
